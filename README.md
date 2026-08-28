@@ -93,8 +93,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 If you use this work, please cite:
 
 ```
-Murgia et al., 2026. Network analysis of c-Fos expression reveals divergent 
-topological signatures of psilocybin and ketamine.
+Generated from data in Davoudian et al., ACS Chem Neurosci 2023, doi:10.1021/acschemneuro.2c00637
 ```
 
 ## Contact
