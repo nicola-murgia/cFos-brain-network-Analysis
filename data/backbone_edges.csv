@@ -1,0 +1,1678 @@
+drug,region1,region2,weight,distance
+PSI,Tuberomammillary nucleus ventral part,Interfascicular nucleus raphe,0.9999303949596766,0.00010000500033334732
+PSI,Tuberomammillary nucleus ventral part,Primary somatosensory area mouth,0.9997747186031936,0.00022530677647209876
+PSI,Tuberomammillary nucleus ventral part,Spinal nucleus of the trigeminal oral part,0.9996846571165235,0.00031539261449869195
+PSI,Tuberomammillary nucleus ventral part,Inferior colliculus,0.99938085904597,0.0006193327009401797
+PSI,Tuberomammillary nucleus ventral part,Lateral visual area,0.9991578586723087,0.0008424961279078422
+PSI,Tuberomammillary nucleus ventral part,Anterior olfactory nucleus,0.999149597495453,0.0008507643018870316
+PSI,Tuberomammillary nucleus ventral part,Parastrial nucleus,0.9982523120108122,0.001749216977564337
+PSI,Tuberomammillary nucleus ventral part,Locus ceruleus,0.9980467608599326,0.0019551491992433685
+PSI,Tuberomammillary nucleus ventral part,Agranular insular area ventral part,0.9979310372773721,0.002071105982728812
+PSI,Tuberomammillary nucleus ventral part,Dorsal terminal nucleus of the accessory optic tract,0.9969357574097999,0.0030689469942741607
+PSI,Tuberomammillary nucleus ventral part,Nucleus of reuniens,0.9949697184511768,0.005042976004069542
+PSI,Tuberomammillary nucleus ventral part,Anterodorsal preoptic nucleus,0.9946307761219554,0.005383689964912191
+PSI,Tuberomammillary nucleus ventral part,Retrosplenial area lateral agranular part,0.9938603066754041,0.006158618745607422
+PSI,Tuberomammillary nucleus ventral part,fiber tracts,0.9931469129343555,0.006876677305899275
+PSI,Tuberomammillary nucleus ventral part,Periventricular hypothalamic nucleus anterior part,0.9927971316632089,0.007228934234502076
+PSI,Tuberomammillary nucleus ventral part,Piriform area,0.9926647353360409,0.007362300006532068
+PSI,Inferior colliculus,Lateral visual area,0.9999731232886684,0.00010000500033334732
+PSI,Inferior colliculus,Primary somatosensory area mouth,0.9992712030508615,0.0007290626507379117
+PSI,Inferior colliculus,Interfascicular nucleus raphe,0.999162093085818,0.0008382581543984788
+PSI,Inferior colliculus,Spinal nucleus of the trigeminal oral part,0.99836597239476,0.0016353640844417106
+PSI,Inferior colliculus,Dorsal terminal nucleus of the accessory optic tract,0.9981443928344564,0.0018573309372788302
+PSI,Inferior colliculus,Anterior olfactory nucleus,0.9978346798992247,0.0021676677959646677
+PSI,Inferior colliculus,Nucleus of reuniens,0.9976065949451394,0.0023962738270756974
+PSI,Inferior colliculus,Locus ceruleus,0.9973120316317445,0.002691587441988426
+PSI,Inferior colliculus,Piriform area,0.9961793151002233,0.003828002360749938
+PSI,Inferior colliculus,Parastrial nucleus,0.9957008561452751,0.004308411745869776
+PSI,Inferior colliculus,Periventricular hypothalamic nucleus anterior part,0.9956973337444399,0.004311949361654624
+PSI,Inferior colliculus,Anterodorsal preoptic nucleus,0.9953890629231693,0.00462160023792973
+PSI,Inferior colliculus,Agranular insular area ventral part,0.9951370754426335,0.004874787048215752
+PSI,Inferior colliculus,Induseum griseum,0.9924639282921055,0.00756461137133131
+PSI,Inferior colliculus,Paraventricular hypothalamic nucleus,0.9923227990917173,0.007706822318914679
+PSI,Principal sensory nucleus of the trigeminal,Anteroventral preoptic nucleus,0.9998331756106059,0.00016683830613031963
+PSI,Principal sensory nucleus of the trigeminal,Ventral auditory area,0.9991143491067168,0.0008860433137510389
+PSI,Principal sensory nucleus of the trigeminal,Parasolitary nucleus,0.9984246191629095,0.0015766230542963334
+PSI,Principal sensory nucleus of the trigeminal,Area postrema,0.993428653430002,0.006593032925785418
+PSI,Interfascicular nucleus raphe,Anterior olfactory nucleus,0.9995622343301891,0.00043786151717521807
+PSI,Interfascicular nucleus raphe,Spinal nucleus of the trigeminal oral part,0.9995306147182221,0.0004694954775334355
+PSI,Interfascicular nucleus raphe,Primary somatosensory area mouth,0.9994603292516018,0.0005398164230698265
+PSI,Interfascicular nucleus raphe,Lateral visual area,0.998967914153234,0.0010326188141070887
+PSI,Interfascicular nucleus raphe,Locus ceruleus,0.9986782110495621,0.001322663283993849
+PSI,Interfascicular nucleus raphe,Parastrial nucleus,0.9986552304843409,0.001345674529632008
+PSI,Interfascicular nucleus raphe,Agranular insular area ventral part,0.9979305496352984,0.0020715946359269283
+PSI,Interfascicular nucleus raphe,Dorsal terminal nucleus of the accessory optic tract,0.9960018545693592,0.004006159381843464
+PSI,Interfascicular nucleus raphe,Nucleus of reuniens,0.9949330149440653,0.005079865754005237
+PSI,Interfascicular nucleus raphe,Anterodorsal preoptic nucleus,0.9933407751641662,0.006681496402853591
+PSI,Interfascicular nucleus raphe,Retrosplenial area lateral agranular part,0.9932542187014248,0.0067686369252684874
+PSI,Interfascicular nucleus raphe,fiber tracts,0.9926778419514344,0.007349096627383729
+PSI,Interfascicular nucleus raphe,Intergeniculate leaflet of the lateral geniculate complex,0.9918251429597296,0.008208454411840982
+PSI,Interfascicular nucleus raphe,Piriform area,0.9917782251961941,0.008255760001554575
+PSI,Interfascicular nucleus raphe,Periventricular hypothalamic nucleus anterior part,0.9915762382805088,0.008459442116983937
+PSI,Induseum griseum,Paraventricular hypothalamic nucleus,0.9996777679267951,0.00032228400111494596
+PSI,Induseum griseum,Primary somatosensory area barrel field,0.9996037341049001,0.0003963444291773024
+PSI,Induseum griseum,Superior olivary complex,0.9989520191711764,0.0010485303446873566
+PSI,Induseum griseum,Nucleus of reuniens,0.9981065972563825,0.00189519749640998
+PSI,Induseum griseum,Piriform area,0.9974950570927223,0.002508085525912491
+PSI,Induseum griseum,Primary motor area,0.9967721969853162,0.003233023607892621
+PSI,Induseum griseum,Nucleus raphe magnus,0.9949408622559205,0.005071978508541924
+PSI,Induseum griseum,Periventricular hypothalamic nucleus anterior part,0.9937715733969901,0.006247904170501888
+PSI,Induseum griseum,Nucleus ambiguus,0.9935197384859743,0.006501349562083858
+PSI,Induseum griseum,Lateral visual area,0.9932483986076599,0.00677449656392613
+PSI,Induseum griseum,Prelimbic area,0.9929096723780616,0.007115583447020129
+PSI,Induseum griseum,Agranular insular area dorsal part,0.9927442524122663,0.00728219854959444
+PSI,Induseum griseum,Dorsal terminal nucleus of the accessory optic tract,0.9907474095544788,0.009295661545867417
+PSI,Anterior amygdalar area,Visceral area,0.9988073709839315,0.0011933407640106306
+PSI,Anterior amygdalar area,Interposed nucleus,0.9981695592010285,0.0018321181028469625
+PSI,Anterior amygdalar area,Intercalated amygdalar nucleus,0.9980708738535042,0.0019309893069068941
+PSI,Anterior amygdalar area,Linear nucleus of the medulla,0.9971667273303847,0.0028372939840751645
+PSI,Anterior amygdalar area,fiber tracts,0.9960353192007512,0.003972560981335917
+PSI,Anterior amygdalar area,Retrosplenial area lateral agranular part,0.9947074224711562,0.005306632831748082
+PSI,Anterior amygdalar area,Medial vestibular nucleus,0.993206886248591,0.006816291976479758
+PSI,Anterior amygdalar area,Ventral cochlear nucleus,0.9931271436522535,0.006896583201600936
+PSI,Anterior amygdalar area,Cortical amygdalar area anterior part,0.9909768999360307,0.009064054776471023
+PSI,Anterior amygdalar area,Agranular insular area ventral part,0.9908044709383593,0.009238068924187395
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Cortical amygdalar area anterior part,0.9978732978729433,0.002128966769408113
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Basolateral amygdalar nucleus,0.9969286997025723,0.003076026419560565
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Parastrial nucleus,0.9962116292706458,0.0037955647806488853
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Anterior olfactory nucleus,0.9950169407211025,0.004995516118128184
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Locus ceruleus,0.9948255844987711,0.005187849150009784
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Preparasubthalamic nucleus,0.9938199051178268,0.006199270715016985
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Cortical amygdalar area posterior part,0.9931075219055816,0.006916340934171819
+PSI,Intergeniculate leaflet of the lateral geniculate complex,Agranular insular area ventral part,0.9927833583039434,0.007242807617460231
+PSI,Periventricular hypothalamic nucleus anterior part,Piriform area,0.999159564049466,0.0008407893148280092
+PSI,Periventricular hypothalamic nucleus anterior part,Dorsal terminal nucleus of the accessory optic tract,0.9988102885151527,0.0011904197533683697
+PSI,Periventricular hypothalamic nucleus anterior part,Anterodorsal preoptic nucleus,0.9977061526769527,0.002296482220958183
+PSI,Periventricular hypothalamic nucleus anterior part,Lateral visual area,0.9957175011717411,0.004291694990794026
+PSI,Periventricular hypothalamic nucleus anterior part,Paraventricular hypothalamic nucleus,0.9956088624809257,0.004400806880141839
+PSI,Periventricular hypothalamic nucleus anterior part,Interpeduncular nucleus,0.9945120573300624,0.005503056749476267
+PSI,Periventricular hypothalamic nucleus anterior part,Nucleus of reuniens,0.9944887766395045,0.00552646618215358
+PSI,Periventricular hypothalamic nucleus anterior part,Primary somatosensory area barrel field,0.9943372319722097,0.005678862286118367
+PSI,Periventricular hypothalamic nucleus anterior part,Primary somatosensory area mouth,0.9942882096581718,0.005728164998455845
+PSI,Periventricular hypothalamic nucleus anterior part,Superior olivary complex,0.9916507535388825,0.008384296650815722
+PSI,Periventricular hypothalamic nucleus anterior part,Spinal nucleus of the trigeminal oral part,0.9915111465556412,0.008525088971871602
+PSI,Periventricular hypothalamic nucleus anterior part,Nucleus raphe magnus,0.9909888265423977,0.00905201964770177
+PSI,Paraventricular hypothalamic nucleus,Primary somatosensory area barrel field,0.9998882992238557,0.00011170701514060828
+PSI,Paraventricular hypothalamic nucleus,Superior olivary complex,0.9991769724859145,0.000823366387177287
+PSI,Paraventricular hypothalamic nucleus,Piriform area,0.998499851837657,0.0015012745111985422
+PSI,Paraventricular hypothalamic nucleus,Primary motor area,0.9976421477811347,0.002360636329617103
+PSI,Paraventricular hypothalamic nucleus,Nucleus of reuniens,0.9973021222485522,0.0027015235824426036
+PSI,Paraventricular hypothalamic nucleus,Nucleus raphe magnus,0.9966260651057592,0.0033796394473841257
+PSI,Paraventricular hypothalamic nucleus,Nucleus ambiguus,0.9932240715327458,0.006798989301963988
+PSI,Paraventricular hypothalamic nucleus,Lateral visual area,0.9930175583584339,0.007006932959924105
+PSI,Paraventricular hypothalamic nucleus,Dorsal terminal nucleus of the accessory optic tract,0.9921479398514965,0.00788304990165688
+PSI,Paraventricular hypothalamic nucleus,Interpeduncular nucleus,0.9916970554981808,0.008337605940194356
+PSI,Paraventricular hypothalamic nucleus,Prelimbic area,0.9908050671397046,0.00923746718975502
+PSI,Anterior cingulate area dorsal part,Midbrain reticular nucleus,0.9988520089974146,0.0011486504489971316
+PSI,Anterior cingulate area dorsal part,Subiculum,0.9913485693208297,0.00868907156113304
+PSI,Infralimbic area,Retrochiasmatic area,0.9998371235798209,0.00016288968598369478
+PSI,Infralimbic area,Prelimbic area,0.9990624424766934,0.0009379973052634277
+PSI,Infralimbic area,posteromedial visual area,0.9987005347876782,0.0013003102493843502
+PSI,Infralimbic area,Nucleus ambiguus,0.9978972890185175,0.002104924782084622
+PSI,Infralimbic area,Lateral vestibular nucleus,0.9937139045790201,0.006305936109477254
+PSI,Infralimbic area,Superior olivary complex,0.9919770341253796,0.008055323048541386
+PSI,Infralimbic area,Agranular insular area posterior part,0.9918471900141166,0.008186225887480938
+PSI,Infralimbic area,Primary motor area,0.9917240663227281,0.008310369339502879
+PSI,Anterior cingulate area ventral part,Nucleus raphe pallidus,0.9989823888301834,0.0010181292875878242
+PSI,Anterior cingulate area ventral part,Nucleus accumbens,0.9979534425728132,0.002048654487496296
+PSI,Anterior cingulate area ventral part,Nucleus prepositus,0.9978197140793035,0.002182666204473332
+PSI,Anterior cingulate area ventral part,Anteromedial nucleus,0.9959483693300488,0.004059860763214853
+PSI,Anterior cingulate area ventral part,Main olfactory bulb,0.9933510579197484,0.006671144766619837
+PSI,Anterior cingulate area ventral part,Bed nuclei of the stria terminalis,0.9913950677031597,0.008642168490589571
+PSI,Nucleus accumbens,Nucleus prepositus,0.9992589738937105,0.0007413008018473262
+PSI,Nucleus accumbens,Nucleus raphe pallidus,0.9983968040527905,0.001604482441017016
+PSI,Nucleus accumbens,Anteromedial nucleus,0.9951528148863441,0.004858970815829314
+PSI,Nucleus accumbens,Main olfactory bulb,0.9948778063714326,0.005135357031925119
+PSI,Nucleus accumbens,Bed nuclei of the stria terminalis,0.9946991629866343,0.005314936297296352
+PSI,Paraventricular hypothalamic nucleus descending division,Dorsal nucleus raphe,0.9921451761428411,0.007885835486743176
+PSI,Lateral terminal nucleus of the accessory optic tract,Parasubthalamic nucleus,0.9939353105628577,0.006083154359994863
+PSI,Anterodorsal preoptic nucleus,Dorsal terminal nucleus of the accessory optic tract,0.9992191397273068,0.0007811653028769029
+PSI,Anterodorsal preoptic nucleus,Primary somatosensory area mouth,0.996544548187065,0.0034614356751591986
+PSI,Anterodorsal preoptic nucleus,Spinal nucleus of the trigeminal oral part,0.9950096708086814,0.005002822465067437
+PSI,Anterodorsal preoptic nucleus,Lateral visual area,0.994928460260594,0.0050844436440021365
+PSI,Anterodorsal preoptic nucleus,Piriform area,0.9947013884224241,0.005312699004471451
+PSI,Anterodorsal preoptic nucleus,Retrosplenial area lateral agranular part,0.9930308677755044,0.006993530046988422
+PSI,Anterodorsal preoptic nucleus,Agranular insular area ventral part,0.9918400329514873,0.008193441805944795
+PSI,Anterodorsal preoptic nucleus,fiber tracts,0.9910981692404864,0.008941688770770265
+PSI,Dorsal terminal nucleus of the accessory optic tract,Primary somatosensory area mouth,0.9981089111195378,0.0018928792465561005
+PSI,Dorsal terminal nucleus of the accessory optic tract,Lateral visual area,0.9979324334124796,0.002069706954059741
+PSI,Dorsal terminal nucleus of the accessory optic tract,Piriform area,0.9974131599561147,0.0025901916959645945
+PSI,Dorsal terminal nucleus of the accessory optic tract,Spinal nucleus of the trigeminal oral part,0.9964866452789297,0.003519541045854202
+PSI,Dorsal terminal nucleus of the accessory optic tract,Nucleus of reuniens,0.9944614827087929,0.005553911746048491
+PSI,Dorsal terminal nucleus of the accessory optic tract,Anterior olfactory nucleus,0.9929437134697843,0.007081299856933774
+PSI,Dorsal terminal nucleus of the accessory optic tract,Agranular insular area ventral part,0.9926911072140264,0.007335733607278254
+PSI,Dorsal terminal nucleus of the accessory optic tract,Retrosplenial area lateral agranular part,0.9913870081007871,0.008650298080291836
+PSI,Dorsal terminal nucleus of the accessory optic tract,Locus ceruleus,0.9911648464522782,0.00887441494152656
+PSI,Dorsal terminal nucleus of the accessory optic tract,Parastrial nucleus,0.9910691636504572,0.008970955311036612
+PSI,Inferior olivary complex,Barrington's nucleus,0.9993039500769479,0.0006962922782671575
+PSI,Inferior olivary complex,Accessory olfactory bulb,0.9952595726441057,0.004751698816787527
+PSI,Inferior olivary complex,Temporal association areas,0.993521180836579,0.006499897804758978
+PSI,Inferior olivary complex,Bed nucleus of the accessory olfactory tract,0.9911454243007488,0.008894010412343181
+PSI,Anterior hypothalamic nucleus,Lateral reticular nucleus,0.998433195276304,0.0015680334458298788
+PSI,Anterior hypothalamic nucleus,Superior colliculus sensory related,0.9976957561734523,0.002306902681572572
+PSI,Anterior hypothalamic nucleus,Copula pyramidis,0.9944215466795923,0.00559407099987676
+PSI,Anterior hypothalamic nucleus,Olivary pretectal nucleus,0.992597686998813,0.007429846076511636
+PSI,Anterior hypothalamic nucleus,Medullary reticular nucleus,0.9908879335708488,0.009153835233480484
+PSI,Interposed nucleus,Visceral area,0.9988276081062445,0.0011730796827565003
+PSI,Interposed nucleus,Basolateral amygdalar nucleus,0.9971330107993778,0.0028711068862838905
+PSI,Interposed nucleus,Cortical amygdalar area anterior part,0.9970900912640394,0.0029141507516374037
+PSI,Interposed nucleus,fiber tracts,0.9953643680261152,0.00464640983681977
+PSI,Interposed nucleus,Retrosplenial area lateral agranular part,0.9937040754817071,0.00631582743320648
+PSI,Interposed nucleus,Agranular insular area ventral part,0.9935808521467341,0.006439839177489194
+PSI,Interposed nucleus,Intercalated amygdalar nucleus,0.9935414304366943,0.006479516363327711
+PSI,Interposed nucleus,Cortical amygdalar area posterior part,0.9926770038611339,0.007349940899935067
+PSI,Interposed nucleus,Parastrial nucleus,0.9918217400021592,0.00821188542327717
+PSI,Interposed nucleus,Linear nucleus of the medulla,0.9909416577421005,0.009099618492040792
+PSI,Dorsal cochlear nucleus,Suprageniculate nucleus,0.9989725875042804,0.001027940645720692
+PSI,Dorsal cochlear nucleus,Anteromedial visual area,0.9944459192692989,0.0055695619864556374
+PSI,Interpeduncular nucleus,Posterior hypothalamic nucleus,0.9971716596448961,0.002832347667498603
+PSI,Interpeduncular nucleus,Nucleus raphe magnus,0.9956829844322935,0.004326360784742078
+PSI,Interpeduncular nucleus,Piriform area,0.9933327763021921,0.0066895489205591315
+PSI,Interpeduncular nucleus,Primary motor area,0.9925865537282366,0.0074410624365331985
+PSI,Interpeduncular nucleus,Primary somatosensory area barrel field,0.9914994104576653,0.008536925618867272
+PSI,Ventral cochlear nucleus,Anterior tegmental nucleus,0.9989788563044661,0.0010216654179566007
+PSI,Ventral cochlear nucleus,Linear nucleus of the medulla,0.9988835538018955,0.0011170698884154337
+PSI,Ventral cochlear nucleus,Subceruleus nucleus,0.9988181917629172,0.0011825071231245394
+PSI,Ventral cochlear nucleus,Medial vestibular nucleus,0.9980035059747723,0.0019984896760698264
+PSI,Ventral cochlear nucleus,Anteroventral periventricular nucleus,0.9974000618637472,0.0026033238451045834
+PSI,Ventral cochlear nucleus,Parabigeminal nucleus,0.9971892641235081,0.0028146934120399864
+PSI,Ventral cochlear nucleus,Intercalated amygdalar nucleus,0.9963083654412304,0.0036984654582658434
+PSI,Ventral cochlear nucleus,Subparafascicular area,0.9950341663194453,0.004978204403587469
+PSI,Agranular insular area dorsal part,Retrosplenial area dorsal part,0.9991015768031414,0.0008988270208669704
+PSI,Agranular insular area dorsal part,Nucleus of reuniens,0.9942811259640001,0.005735289411011968
+PSI,Agranular insular area dorsal part,Ventral part of the lateral geniculate complex,0.9935336306540067,0.006487366879737866
+PSI,Agranular insular area dorsal part,Prelimbic area,0.9921414793142884,0.00788956159006858
+PSI,Agranular insular area dorsal part,Agranular insular area posterior part,0.9908159648478966,0.00922646840843795
+PSI,Inferior salivatory nucleus,Paramedian lobule,-0.9987383881495857,0.0012624083526330807
+PSI,Inferior salivatory nucleus,Anterior pretectal nucleus,0.9967211838658406,0.003284203230535645
+PSI,Inferior salivatory nucleus,Simple lobule,-0.9965449053919916,0.003461077231712522
+PSI,Inferior salivatory nucleus,Superior colliculus motor related,0.9944605789037455,0.005554820585127511
+PSI,Inferior salivatory nucleus,Ansiform lobule,-0.9932413217726074,0.006781621529114671
+PSI,Inferior salivatory nucleus,Subiculum,0.9929444659923025,0.007080541986953006
+PSI,Agranular insular area posterior part,Ventral part of the lateral geniculate complex,0.9994208188416431,0.0005793489485543738
+PSI,Agranular insular area posterior part,posteromedial visual area,0.996831489760124,0.003173540597082031
+PSI,Agranular insular area posterior part,Prelimbic area,0.9937925289381465,0.006226817513590951
+PSI,Agranular insular area posterior part,Postsubiculum,-0.9911595173103431,0.008879791601403727
+PSI,Agranular insular area posterior part,Anterior pretectal nucleus,0.9911487226883324,0.008890682563558851
+PSI,Periventricular hypothalamic nucleus intermediate part,Suprachiasmatic nucleus,0.994843479748388,0.005169860983094014
+PSI,Periventricular hypothalamic nucleus intermediate part,Supraoptic nucleus,0.9942531350363079,0.005763441732290055
+PSI,Periventricular hypothalamic nucleus intermediate part,External cuneate nucleus,0.9926215687123363,0.007405786554163414
+PSI,Periventricular hypothalamic nucleus intermediate part,Paragigantocellular reticular nucleus lateral part,0.992093818686026,0.00793760088089225
+PSI,Agranular insular area ventral part,Parastrial nucleus,0.9992039610221529,0.0007963559851188003
+PSI,Agranular insular area ventral part,Spinal nucleus of the trigeminal oral part,0.9991156018454512,0.0008847894653300228
+PSI,Agranular insular area ventral part,fiber tracts,0.9980553202557512,0.0019465730889335873
+PSI,Agranular insular area ventral part,Retrosplenial area lateral agranular part,0.9979951905721145,0.0020068217483023496
+PSI,Agranular insular area ventral part,Primary somatosensory area mouth,0.9978713946612058,0.0021308740391552524
+PSI,Agranular insular area ventral part,Anterior olfactory nucleus,0.9976713242416506,0.0023313913403689482
+PSI,Agranular insular area ventral part,Visceral area,0.9962072285521604,0.003799982243842557
+PSI,Agranular insular area ventral part,Locus ceruleus,0.9950918505460933,0.004920233977418188
+PSI,Agranular insular area ventral part,Cortical amygdalar area anterior part,0.9949487526411579,0.005064048033224722
+PSI,Agranular insular area ventral part,Lateral visual area,0.9944864062543788,0.005528849706237869
+PSI,Agranular insular area ventral part,Basolateral amygdalar nucleus,0.9922617278952339,0.007768367892481505
+PSI,Periventricular hypothalamic nucleus posterior part,Bed nuclei of the stria terminalis,0.9988523971807844,0.001148261819559571
+PSI,Periventricular hypothalamic nucleus posterior part,Nucleus prepositus,0.993070103107786,0.006954020140028137
+PSI,Periventricular hypothalamic nucleus posterior part,Nucleus raphe pallidus,0.9913985071175982,0.008638699229359085
+PSI,Anteromedial nucleus,Main olfactory bulb,0.9992560731158774,0.0007442037350401502
+PSI,Anteromedial nucleus,Dentate gyrus,0.9948026034963342,0.005210949951030397
+PSI,Anteromedial nucleus,Nucleus raphe pallidus,0.9919622602085105,0.00807021656560773
+PSI,Anteromedial nucleus,Nucleus prepositus,0.9915594185925978,0.008476404837464624
+PSI,Midbrain reticular nucleus,Parafascicular nucleus,0.9911720123301283,0.008867185213825757
+PSI,Midbrain reticular nucleus,Lateral dorsal nucleus of thalamus,0.9908883672888689,0.009153397527146155
+PSI,Midbrain reticular nucleus,Subiculum,0.9908788113713989,0.009163041361773103
+PSI,Nucleus ambiguus,Retrochiasmatic area,0.9978501268570289,0.0021521874377916604
+PSI,Nucleus ambiguus,Primary motor area,0.9977616802232853,0.002240828558762925
+PSI,Nucleus ambiguus,Prelimbic area,0.9973016147029937,0.0027020325011306292
+PSI,Nucleus ambiguus,Superior olivary complex,0.9970890550884226,0.0029151899517700984
+PSI,Nucleus ambiguus,Nucleus raphe magnus,0.995620705309901,0.0043889118890599816
+PSI,Nucleus ambiguus,Lateral mammillary nucleus,0.9948684027173497,0.005144809146008904
+PSI,Nucleus ambiguus,Primary somatosensory area barrel field,0.9948394294854158,0.0051739322478703675
+PSI,Nucleus ambiguus,posteromedial visual area,0.9935683912925768,0.006452380615127656
+PSI,Nucleus ambiguus,Piriform-amygdalar area,0.9928202499131304,0.007205648529877343
+PSI,Intermediate reticular nucleus,Red nucleus,-0.9919602533815174,0.008072239655702624
+PSI,Pontine reticular nucleus,Fasciola cinerea,0.9958287477377937,0.004179976203214498
+PSI,Locus ceruleus,Anterior olfactory nucleus,0.9995202410080987,0.0004798741130682398
+PSI,Locus ceruleus,Parastrial nucleus,0.9978411717297904,0.002161161899167457
+PSI,Locus ceruleus,Lateral visual area,0.9973680326585702,0.002635437056928736
+PSI,Locus ceruleus,Spinal nucleus of the trigeminal oral part,0.9968416411585206,0.0031633569834904067
+PSI,Locus ceruleus,Primary somatosensory area mouth,0.9965028550731362,0.0035032742324023884
+PSI,Locus ceruleus,Nucleus of reuniens,0.9951253072240703,0.00488661284431763
+PSI,Locus ceruleus,Retrosplenial area dorsal part,0.9942225030951277,0.005794251203218595
+PSI,Paraventricular nucleus of the thalamus,Ventral premammillary nucleus,0.9983563570810606,0.0016449951819233132
+PSI,Paraventricular nucleus of the thalamus,Field CA2,0.9981013628133484,0.0019004418829056224
+PSI,Paraventricular nucleus of the thalamus,Declive (VI),0.9947211920178913,0.005292790116673924
+PSI,Accessory olfactory bulb,Temporal association areas,0.9954905168670467,0.0045196815232117805
+PSI,Accessory olfactory bulb,Barrington's nucleus,0.9953697016742412,0.0046410513630715765
+PSI,Accessory olfactory bulb,Bed nucleus of the accessory olfactory tract,0.9928458612258434,0.007179852337284141
+PSI,Lateral dorsal nucleus of thalamus,Parafascicular nucleus,0.9955583125744425,0.004451581026207889
+PSI,Lateral dorsal nucleus of thalamus,Superior colliculus motor related,0.9924559148105865,0.007572685734179674
+PSI,Lateral dorsal nucleus of thalamus,Simple lobule,-0.992403284969714,0.007625717043292853
+PSI,Anterior olfactory nucleus,Parastrial nucleus,0.9992773238023727,0.0007229374539473776
+PSI,Anterior olfactory nucleus,Spinal nucleus of the trigeminal oral part,0.9986735518799872,0.001327328631041284
+PSI,Anterior olfactory nucleus,Primary somatosensory area mouth,0.9981010220202874,0.0019007833242981212
+PSI,Anterior olfactory nucleus,Lateral visual area,0.997673874895899,0.002328834735878185
+PSI,Anterior olfactory nucleus,Nucleus of reuniens,0.9936889189417178,0.006331080118540598
+PSI,Anterior olfactory nucleus,Cortical amygdalar area anterior part,0.9927317777684118,0.007294764446804978
+PSI,Anterior olfactory nucleus,Retrosplenial area lateral agranular part,0.9917066836706118,0.008327897203399185
+PSI,Anterior olfactory nucleus,fiber tracts,0.9915284516623792,0.008507635859231774
+PSI,Nucleus prepositus,Nucleus raphe pallidus,0.9994978687242849,0.0005022573858417638
+PSI,Nucleus prepositus,Bed nuclei of the stria terminalis,0.9975382238969642,0.0024648112560945947
+PSI,Dorsal part of the lateral geniculate complex,Dentate gyrus,0.9952964139777898,0.004714682692713751
+PSI,Dorsal part of the lateral geniculate complex,Medial septal nucleus,0.9937904947730343,0.006228864386690565
+PSI,Dorsal part of the lateral geniculate complex,Nucleus of Roller,0.9937574361057476,0.006262130167883652
+PSI,Dorsal part of the lateral geniculate complex,Magnocellular nucleus,0.9935493179545478,0.0064715776037517336
+PSI,Dorsal part of the lateral geniculate complex,Medullary reticular nucleus dorsal part,0.9930092624763651,0.007015287209707402
+PSI,Dorsal part of the lateral geniculate complex,Taenia tecta,0.9912364259314665,0.008802200016913059
+PSI,Retrochiasmatic area,Prelimbic area,0.9981372517722831,0.001864485300685105
+PSI,Retrochiasmatic area,posteromedial visual area,0.9980915103355794,0.0019103131512600735
+PSI,Retrochiasmatic area,Lateral vestibular nucleus,0.9954801044445172,0.0045301411677873115
+PSI,Retrochiasmatic area,Primary motor area,0.9912849426613375,0.00875325554584785
+PSI,Retrochiasmatic area,Lateral mammillary nucleus,0.9910993322351053,0.008940515331072188
+PSI,Retrochiasmatic area,Superior olivary complex,0.9909282400979551,0.009113158880499435
+PSI,Nucleus of Roller,Magnocellular nucleus,0.9998781733173367,0.00012183410413631692
+PSI,Ventral part of the lateral geniculate complex,posteromedial visual area,0.9943919117835183,0.005623872584283864
+PSI,Ventral part of the lateral geniculate complex,Prelimbic area,0.9922671710360835,0.007762882317690885
+PSI,Nucleus of reuniens,Lateral visual area,0.9980833687353471,0.0019184703526332917
+PSI,Nucleus of reuniens,Piriform area,0.997401895569317,0.002601485361276152
+PSI,Nucleus of reuniens,Primary somatosensory area barrel field,0.9963865396591292,0.0036200046585329678
+PSI,Nucleus of reuniens,Superior olivary complex,0.9942887201581045,0.00572765156603579
+PSI,Nucleus of reuniens,Primary somatosensory area mouth,0.9942402949270052,0.005776356141872095
+PSI,Nucleus of reuniens,Retrosplenial area dorsal part,0.9941319187700722,0.005885366070992703
+PSI,Nucleus of reuniens,Spinal nucleus of the trigeminal oral part,0.9922259330689672,0.007804442519675901
+PSI,Frontal pole cerebral cortex,Preparasubthalamic nucleus,0.9993956899363639,0.0006044927325588074
+PSI,Frontal pole cerebral cortex,Cortical amygdalar area posterior part,0.9977783561273229,0.002224115384650389
+PSI,Frontal pole cerebral cortex,Temporal association areas,0.9976213125432568,0.002381521028097223
+PSI,Frontal pole cerebral cortex,Barrington's nucleus,0.9935348139727229,0.006486175860153779
+PSI,Frontal pole cerebral cortex,Basolateral amygdalar nucleus,0.9923791980661864,0.007649988623412766
+PSI,Rhomboid nucleus,Lateral preoptic area,0.9989677403216313,0.0010327928253195014
+PSI,Rhomboid nucleus,Supplemental somatosensory area,0.9944196897012051,0.005595938397186513
+PSI,Rhomboid nucleus,Temporal association areas,0.9918120331630988,0.008221672349867867
+PSI,Rhomboid nucleus,Primary somatosensory area nose,0.9917575467303664,0.008276610107835557
+PSI,Lateral hypothalamic area,Entorhinal area medial part dorsal zone,0.9922669581238478,0.0077630968891941945
+PSI,Rostral linear nucleus raphe,Basomedial amygdalar nucleus,0.9989744280532223,0.001026098205528243
+PSI,Rostral linear nucleus raphe,Superior vestibular nucleus,0.9968259066358207,0.003179141483486514
+PSI,Medial vestibular nucleus,Anteroventral periventricular nucleus,0.9993133378887833,0.0006868979716213135
+PSI,Medial vestibular nucleus,Intercalated amygdalar nucleus,0.9982993037876743,0.0017021440379028651
+PSI,Medial vestibular nucleus,Linear nucleus of the medulla,0.9966197220340677,0.0033860040128908054
+PSI,Medial vestibular nucleus,Anterior tegmental nucleus,0.9966022737700092,0.0034035116102338497
+PSI,Medial vestibular nucleus,Subparafascicular area,0.9960634180080385,0.00394435072572518
+PSI,Medial vestibular nucleus,Subceruleus nucleus,0.993799726742517,0.006219574776203552
+PSI,Medial vestibular nucleus,Dorsal auditory area,0.9928665624259518,0.007159002188125965
+PSI,Medial vestibular nucleus,Parabigeminal nucleus,0.992123244340482,0.007907941167742372
+PSI,Linear nucleus of the medulla,Intercalated amygdalar nucleus,0.997669766097234,0.002332953122887383
+PSI,Linear nucleus of the medulla,Subceruleus nucleus,0.99751587047298,0.00248722009608373
+PSI,Linear nucleus of the medulla,Anterior tegmental nucleus,0.9957829246704627,0.004225992269472743
+PSI,Linear nucleus of the medulla,Visceral area,0.9944820081109379,0.005533272243477906
+PSI,Linear nucleus of the medulla,Anteroventral periventricular nucleus,0.9942805329232296,0.005735885862993067
+PSI,Linear nucleus of the medulla,Parabigeminal nucleus,0.9936045852315875,0.006415953047480299
+PSI,Linear nucleus of the medulla,fiber tracts,0.9934890841510781,0.00653220431677789
+PSI,Linear nucleus of the medulla,Retrosplenial area lateral agranular part,0.9928538535183467,0.00717180248720464
+PSI,Nucleus raphe magnus,Primary motor area,0.999478528021933,0.0005216079918658894
+PSI,Nucleus raphe magnus,Superior olivary complex,0.9981057702072234,0.001896026114820163
+PSI,Nucleus raphe magnus,Primary somatosensory area barrel field,0.9973577608704122,0.0026457360044747674
+PSI,Nucleus raphe magnus,Piriform-amygdalar area,0.9945628770947447,0.005451957855398658
+PSI,Nucleus raphe magnus,Piriform area,0.9936184959617392,0.006401952877812732
+PSI,Nucleus raphe magnus,Lateral mammillary nucleus,0.993542979309053,0.006477957423655992
+PSI,Area postrema,Ventral auditory area,0.99611957853461,0.003887969834327385
+PSI,Area postrema,Anteroventral preoptic nucleus,0.9951133762624603,0.004898602322473335
+PSI,Area postrema,Parasolitary nucleus,0.9950341604029987,0.0049782103495607565
+PSI,Area postrema,Zona incerta,0.9923596975913704,0.007669639041771783
+PSI,Lateral vestibular nucleus,Edinger-Westphal nucleus,0.9982656064552171,0.0017358993466208496
+PSI,Lateral vestibular nucleus,Anterior pretectal nucleus,0.9915698393232397,0.008465895456292975
+PSI,Lateral vestibular nucleus,posteromedial visual area,0.9912717985119646,0.008766515342251292
+PSI,Lateral mammillary nucleus,Piriform-amygdalar area,0.9994524927591141,0.0005476571777054968
+PSI,Lateral mammillary nucleus,Primary motor area,0.9932899176293031,0.006732696190573282
+PSI,Red nucleus,Substantia nigra compact part,0.9970350749936215,0.0029693291038920162
+PSI,Red nucleus,Abducens nucleus,0.9928581894386245,0.007167435368323324
+PSI,Anterior pretectal nucleus,Paramedian lobule,-0.9970964923529803,0.0029077310023586664
+PSI,Anterior pretectal nucleus,posteromedial visual area,0.9934947293814272,0.006526522106071643
+PSI,Superior vestibular nucleus,Basomedial amygdalar nucleus,0.9994050875276781,0.0005950895029620747
+PSI,Lateral posterior nucleus of the thalamus,Culmen,-0.9997262198260864,0.00027381765854722135
+PSI,Lateral posterior nucleus of the thalamus,Dorsal nucleus raphe,0.998643757854073,0.0013571626747069486
+PSI,Lateral posterior nucleus of the thalamus,Superior central nucleus raphe,0.9971071800535968,0.00289701223700435
+PSI,Lateral preoptic area,Supplemental somatosensory area,0.9973266746560396,0.0026769050594103623
+PSI,Lateral preoptic area,Primary somatosensory area nose,0.995094285740465,0.004917786774789942
+PSI,Nucleus raphe pallidus,Bed nuclei of the stria terminalis,0.9962144638212201,0.0037927194549585617
+PSI,Anterior tegmental nucleus,Parabigeminal nucleus,0.9990152631781918,0.0009852219936495336
+PSI,Anterior tegmental nucleus,Subceruleus nucleus,0.9984606167175355,0.0015405693502745805
+PSI,Anterior tegmental nucleus,Anteroventral periventricular nucleus,0.9976654557130133,0.0023372735841046804
+PSI,Anterior tegmental nucleus,Subparafascicular area,0.9976393366993052,0.002363454059197016
+PSI,Anterior tegmental nucleus,Nucleus of the lateral olfactory tract,0.9934069796127275,0.006614850349345653
+PSI,Anterior tegmental nucleus,Intercalated amygdalar nucleus,0.9922995937330068,0.0077302074815485695
+PSI,Anterior tegmental nucleus,Dorsal auditory area,0.9917044901837826,0.00833010903608228
+PSI,Lateral reticular nucleus,Superior colliculus sensory related,0.9997658446666894,0.00023418275195090466
+PSI,Lateral reticular nucleus,Copula pyramidis,0.9973233411662356,0.00268024749019034
+PSI,Lateral reticular nucleus,Olivary pretectal nucleus,0.997186252548245,0.0028177134804652994
+PSI,Lateral reticular nucleus,Posterior limiting nucleus of the thalamus,0.9932922177494369,0.006730380534862057
+PSI,Lateral reticular nucleus,Medullary reticular nucleus,0.9923017442919034,0.007728040236313544
+PSI,Lateral reticular nucleus,Dorsomedial nucleus of the hypothalamus,0.9922232541814316,0.007807142399877211
+PSI,Lateral reticular nucleus,Caudoputamen,0.9912922027092841,0.008745931696721892
+PSI,Nucleus raphe pontis,Ventral medial nucleus of the thalamus,0.9945124044247977,0.005502707739454559
+PSI,Nucleus raphe pontis,Lateral septal nucleus caudal (caudodorsal) part,0.9934734800621767,0.006547910791759046
+PSI,Lateral septal nucleus rostral (rostroventral) part,Nucleus of the lateral olfactory tract,0.9988754187567078,0.0011252140592583589
+PSI,Lateral septal nucleus rostral (rostroventral) part,Dorsal auditory area,0.9963114671714053,0.003695352240055161
+PSI,Lateral septal nucleus rostral (rostroventral) part,Subparafascicular area,0.9956728464157829,0.0043365428088220125
+PSI,Lateral septal nucleus rostral (rostroventral) part,Periaqueductal gray,0.9933405567999058,0.006681716231023139
+PSI,Lateral septal nucleus rostral (rostroventral) part,Reticular nucleus of the thalamus,0.99148149694016,0.008554992880573131
+PSI,Lateral septal nucleus rostral (rostroventral) part,Parabrachial nucleus,0.991216452904015,0.008822349829970811
+PSI,Reticular nucleus of the thalamus,Parabrachial nucleus,0.9994182905618644,0.0005818786967135572
+PSI,Reticular nucleus of the thalamus,Medullary reticular nucleus ventral part,0.999014147283915,0.0009863389884954721
+PSI,Reticular nucleus of the thalamus,Medullary reticular nucleus,0.9979386008349197,0.002063526772741133
+PSI,Reticular nucleus of the thalamus,Primary somatosensory area trunk,0.9965087015990236,0.0034974072058235766
+PSI,Reticular nucleus of the thalamus,Posterior limiting nucleus of the thalamus,0.9964925608272839,0.00351360465842371
+PSI,Reticular nucleus of the thalamus,Dorsal auditory area,0.9955429262577541,0.004467036108439402
+PSI,Reticular nucleus of the thalamus,Copula pyramidis,0.993317684333359,0.006704742301712406
+PSI,Anteroventral preoptic nucleus,Ventral auditory area,0.9996920301107972,0.0003080173216678778
+PSI,Anteroventral preoptic nucleus,Parasolitary nucleus,0.9982912517345667,0.0017102098409643722
+PSI,Anteroventral periventricular nucleus,Subparafascicular area,0.9986330024595695,0.0013679327339368712
+PSI,Anteroventral periventricular nucleus,Dorsal auditory area,0.9962831824039502,0.0037237421260392636
+PSI,Anteroventral periventricular nucleus,Intercalated amygdalar nucleus,0.9954551664367874,0.004555192718277952
+PSI,Anteroventral periventricular nucleus,Parabigeminal nucleus,0.9936952809980018,0.006324677676291013
+PSI,Anteroventral periventricular nucleus,Subceruleus nucleus,0.9935691962731955,0.006451570424002738
+PSI,Anteroventral periventricular nucleus,Nucleus of the lateral olfactory tract,0.9911821906448419,0.008856916297505525
+PSI,Barrington's nucleus,Temporal association areas,0.9966907396367821,0.0033147480754840853
+PSI,Barrington's nucleus,Cortical amygdalar area posterior part,0.9942527240887697,0.00576385505522418
+PSI,Suprachiasmatic nucleus,External cuneate nucleus,0.9941582929392847,0.005858836574384313
+PSI,Suprachiasmatic nucleus,Entorhinal area lateral part,0.9928934577233014,0.007131914023314203
+PSI,Bed nucleus of the anterior commissure,Posterolateral visual area,0.999470905898854,0.0005292341208211563
+PSI,Bed nucleus of the anterior commissure,Nucleus y,0.9921201294230604,0.00791108082033021
+PSI,Bed nucleus of the anterior commissure,Central lobule,-0.9908897104418631,0.009152042024217382
+PSI,Bed nucleus of the accessory olfactory tract,Caudoputamen,0.9933081599015192,0.0067143308529410955
+PSI,Bed nucleus of the accessory olfactory tract,Primary visual area,0.9917169763878197,0.00831751846544688
+PSI,Superior colliculus motor related,Ansiform lobule,-0.9977298421556461,0.002272738559166158
+PSI,Superior colliculus motor related,Simple lobule,-0.9918032096233979,0.008230568772430804
+PSI,Basolateral amygdalar nucleus,Cortical amygdalar area anterior part,0.9996755398574865,0.0003245127910941193
+PSI,Basolateral amygdalar nucleus,Cortical amygdalar area posterior part,0.9978764476910827,0.0021258102432490304
+PSI,Basolateral amygdalar nucleus,Preparasubthalamic nucleus,0.9947501120291197,0.005263717054728727
+PSI,Basolateral amygdalar nucleus,Visceral area,0.9938163938192203,0.006202803854966603
+PSI,Basolateral amygdalar nucleus,Parastrial nucleus,0.993522325911245,0.006498745263647435
+PSI,Superior colliculus sensory related,Copula pyramidis,0.9986648034002993,0.0013360887689166032
+PSI,Superior colliculus sensory related,Olivary pretectal nucleus,0.9984610727557302,0.0015401126090843218
+PSI,Superior colliculus sensory related,Posterior limiting nucleus of the thalamus,0.9955617015909577,0.0044481768953759035
+PSI,Superior colliculus sensory related,Medullary reticular nucleus,0.9944832741193979,0.005531999211242235
+PSI,Superior colliculus sensory related,Dorsomedial nucleus of the hypothalamus,0.9931103210925141,0.006913522323975222
+PSI,Superior colliculus sensory related,Medullary reticular nucleus ventral part,0.992673733453555,0.007353235438796533
+PSI,Suprageniculate nucleus,Superior central nucleus raphe,0.993536916171313,0.006484059984256395
+PSI,Suprageniculate nucleus,Medial geniculate complex,0.9932222518821735,0.0068008213681526215
+PSI,Primary somatosensory area barrel field,Superior olivary complex,0.9996716228582717,0.0003284310693079375
+PSI,Primary somatosensory area barrel field,Primary motor area,0.9984674809477007,0.001533694560768426
+PSI,Primary somatosensory area barrel field,Piriform area,0.997639212373054,0.0023635786796428588
+PSI,Primary somatosensory area barrel field,Prelimbic area,0.9922614992707514,0.007768598299946067
+PSI,Primary somatosensory area barrel field,Lateral visual area,0.9912142834746035,0.008824538485919036
+PSI,Septohippocampal nucleus,Presubiculum,0.9992545964533784,0.0007456814979777516
+PSI,Primary somatosensory area lower limb,Flocculus,-0.9976430663099272,0.002359715630374725
+PSI,Primary somatosensory area lower limb,Field CA2,0.9968128924730295,0.0031921971712040734
+PSI,Primary somatosensory area lower limb,Ventral premammillary nucleus,0.9924130516311935,0.007615875667746373
+PSI,Primary somatosensory area mouth,Spinal nucleus of the trigeminal oral part,0.9997156635154687,0.0002843769158137587
+PSI,Primary somatosensory area mouth,Lateral visual area,0.9989666815384278,0.0010338527031531883
+PSI,Primary somatosensory area mouth,Parastrial nucleus,0.9973911478105904,0.002612261174599186
+PSI,Primary somatosensory area mouth,Retrosplenial area lateral agranular part,0.9950318140305638,0.004980568434634364
+PSI,Primary somatosensory area mouth,fiber tracts,0.9941269239548951,0.0058903903817814265
+PSI,Primary somatosensory area mouth,Piriform area,0.9934352788297796,0.006586363722454447
+PSI,Subparaventricular zone,Ectorhinal area,0.9928600149454608,0.007165596731972676
+PSI,Subparaventricular zone,Fundus of striatum,-0.9920187426934421,0.008013278031554973
+PSI,Subceruleus nucleus,Parabigeminal nucleus,0.9988162117466873,0.0011844894840874717
+PSI,Subceruleus nucleus,Subparafascicular area,0.9922985855610262,0.00773122347762383
+PSI,Subceruleus nucleus,Intercalated amygdalar nucleus,0.9916281668489406,0.008407073769768297
+PSI,Subceruleus nucleus,Tuberal nucleus,0.991054382759602,0.008985869508370279
+PSI,Primary somatosensory area nose,Supplemental somatosensory area,0.9996495182295408,0.00035054320354940474
+PSI,Preparasubthalamic nucleus,Cortical amygdalar area posterior part,0.9981049672069217,0.0018968306393993034
+PSI,Preparasubthalamic nucleus,Temporal association areas,0.994622931193519,0.005391577273009302
+PSI,Preparasubthalamic nucleus,Cortical amygdalar area anterior part,0.992926525336633,0.007098610286201383
+PSI,Sublaterodorsal nucleus,Central medial nucleus of the thalamus,0.9971557442363962,0.0028483083452381175
+PSI,Sublaterodorsal nucleus,Dentate gyrus,0.9944142918217718,0.005601366582227078
+PSI,Primary somatosensory area trunk,Posterior limiting nucleus of the thalamus,0.9956913657438062,0.004317943169528731
+PSI,Primary somatosensory area trunk,Medullary reticular nucleus ventral part,0.9951848229992946,0.004826807315181035
+PSI,Primary somatosensory area trunk,Parabrachial nucleus,0.994017331562445,0.006000636298049311
+PSI,Primary somatosensory area trunk,Medullary reticular nucleus,0.9929173209513651,0.007107880285234921
+PSI,Primary somatosensory area trunk,Copula pyramidis,0.9907356039255104,0.009307577498604065
+PSI,Primary somatosensory area upper limb,Tegmental reticular nucleus,0.9993706204785128,0.0006295776639204832
+PSI,Primary somatosensory area upper limb,Pyramus (VIII),-0.9985718248704473,0.0014291959437030867
+PSI,Primary somatosensory area upper limb,Orbital area ventrolateral part,0.9984134270120363,0.001587832927720723
+PSI,Primary somatosensory area upper limb,Central lateral nucleus of the thalamus,0.9970785250210535,0.002925750816839004
+PSI,Primary somatosensory area upper limb,Dorsal premammillary nucleus,0.9964557711758567,0.0035505244830278657
+PSI,Primary somatosensory area upper limb,Entorhinal area lateral part,0.9921962294083716,0.007834379355858746
+PSI,Primary somatosensory area upper limb,Nucleus of the lateral lemniscus,0.990972458378815,0.009068536785254001
+PSI,Substantia nigra compact part,Abducens nucleus,0.9983613552275321,0.0016399888192905987
+PSI,Primary visual area,Gustatory areas,0.9967256433869074,0.00327972904942803
+PSI,Primary visual area,Caudoputamen,0.9930140593637008,0.007010456564182813
+PSI,Supraoptic nucleus,External cuneate nucleus,0.9985620570792292,0.0014389777528311027
+PSI,Supraoptic nucleus,Paragigantocellular reticular nucleus lateral part,0.9926935846882755,0.007333237895228906
+PSI,Anteromedial visual area,Medullary reticular nucleus dorsal part,0.9975574848375137,0.002445502968812168
+PSI,Anteromedial visual area,Taenia tecta,0.9974574696876475,0.0025457680317112403
+PSI,Anteromedial visual area,Primary auditory area,0.9952710028738455,0.0047402142107427605
+PSI,Medullary reticular nucleus,Medullary reticular nucleus ventral part,0.9997476700630531,0.0002523617775017738
+PSI,Medullary reticular nucleus,Parabrachial nucleus,0.9993334818452816,0.0006667403766925007
+PSI,Medullary reticular nucleus,Posterior limiting nucleus of the thalamus,0.9985995141144268,0.0014014674825131676
+PSI,Medullary reticular nucleus,Copula pyramidis,0.9981399677217637,0.0018617642863348663
+PSI,Medullary reticular nucleus,Olivary pretectal nucleus,0.9958011135030145,0.004207726575227707
+PSI,Medullary reticular nucleus,Dorsal auditory area,0.9955282653829729,0.0044817627288063775
+PSI,Superior olivary complex,Primary motor area,0.9993690384327126,0.0006311607073079383
+PSI,Superior olivary complex,Piriform area,0.9956495106097576,0.0043599803059646055
+PSI,Superior olivary complex,Prelimbic area,0.9942252896651722,0.005791448444147287
+PSI,Medial amygdalar nucleus,Posterior complex of the thalamus,-0.9955000048646115,0.004510150591284834
+PSI,Lateral visual area,Spinal nucleus of the trigeminal oral part,0.9979592536974801,0.002042831462593668
+PSI,Lateral visual area,Piriform area,0.9964734066564765,0.0035328264325236534
+PSI,Lateral visual area,Parastrial nucleus,0.9952756744463446,0.004735520452437773
+PSI,Field CA2,Ventral premammillary nucleus,0.9974646919112066,0.002538527424836301
+PSI,Posterolateral visual area,Nucleus y,0.9956103224560728,0.004399340466842735
+PSI,Posterolateral visual area,Central lobule,-0.9942619885778708,0.005754537056174785
+PSI,Spinal nucleus of the trigeminal oral part,Parastrial nucleus,0.998697081804981,0.00130376773092787
+PSI,Spinal nucleus of the trigeminal oral part,Retrosplenial area lateral agranular part,0.9963000844770854,0.0037067771405186662
+PSI,Spinal nucleus of the trigeminal oral part,fiber tracts,0.9957685357960575,0.004240442184216167
+PSI,Spinal nucleus of the trigeminal oral part,Visceral area,0.9919602532519649,0.008072239786305115
+PSI,Spinal nucleus of the trigeminal oral part,Cortical amygdalar area anterior part,0.9909280108990121,0.00911339017774204
+PSI,Medial geniculate complex,Superior central nucleus raphe,0.9930195490381458,0.007004928284679571
+PSI,Subiculum,Simple lobule,-0.999166491300005,0.0008338562615152608
+PSI,Subiculum,Paramedian lobule,-0.9944422901586903,0.0055732113726719
+PSI,Main olfactory bulb,Dentate gyrus,0.9918388539507194,0.008194630507176318
+PSI,Medial pretectal area,Perirhinal area,0.9939212254953629,0.006097325470675667
+PSI,posteromedial visual area,Prelimbic area,0.9983876363345069,0.0016136649227093491
+PSI,Central amygdalar nucleus,Dorsal peduncular area,0.9936213823039627,0.006399048002306739
+PSI,Temporal association areas,Cortical amygdalar area posterior part,0.9936552224283318,0.006364991218976406
+PSI,Medial septal nucleus,Taenia tecta,0.9952773015069135,0.004733885669954113
+PSI,Medial septal nucleus,Medullary reticular nucleus dorsal part,0.9925598014899345,0.007468014845591968
+PSI,Tegmental reticular nucleus,Pyramus (VIII),-0.9989414358984623,0.00105912477622456
+PSI,Tegmental reticular nucleus,Central lateral nucleus of the thalamus,0.9987068380089404,0.001293998846564737
+PSI,Tegmental reticular nucleus,Orbital area ventrolateral part,0.996691304097345,0.0033141817409325924
+PSI,Tegmental reticular nucleus,Dorsal premammillary nucleus,0.9929126579032016,0.007112576606886976
+PSI,Tegmental reticular nucleus,Entorhinal area lateral part,0.9918904207663395,0.008142640735901607
+PSI,Tegmental reticular nucleus,Accessory facial motor nucleus,0.9910878508016809,0.008952099941771638
+PSI,Central lateral nucleus of the thalamus,Pyramus (VIII),-0.9993654876840304,0.000634713704102458
+PSI,Central lateral nucleus of the thalamus,Entorhinal area lateral part,0.9951309168183828,0.004880975786892806
+PSI,Central lateral nucleus of the thalamus,Orbital area ventrolateral part,0.9915422150900822,0.008493754934125112
+PSI,Accessory facial motor nucleus,Ventral tegmental area,-0.9927315603109386,0.0072949834964032055
+PSI,Taenia tecta,Medullary reticular nucleus dorsal part,0.9991262889355154,0.0008740929724644297
+PSI,Taenia tecta,Primary auditory area,0.991218544263649,0.008820239940227233
+PSI,Subparafascicular area,Dorsal auditory area,0.9981311484329126,0.0018706000489522694
+PSI,Subparafascicular area,Nucleus of the lateral olfactory tract,0.9966842863175114,0.0033212228423360195
+PSI,Subparafascicular area,Parabigeminal nucleus,0.9948857647046563,0.0051273577566952645
+PSI,Subparafascicular area,Parabrachial nucleus,0.990894645484006,0.009147061621452488
+PSI,Nucleus of the lateral lemniscus,Dorsal premammillary nucleus,0.9985106707687675,0.0014904393844045872
+PSI,Cuneiform nucleus,Paragigantocellular reticular nucleus dorsal part,0.9915531822800951,0.0084826942559272
+PSI,Nucleus of the lateral olfactory tract,Periaqueductal gray,0.9960678345626087,0.003939916726143593
+PSI,Nucleus of the lateral olfactory tract,Dorsal auditory area,0.9944271099594552,0.005588476527070254
+PSI,Nucleus of the lateral olfactory tract,Parabigeminal nucleus,0.9932139667179536,0.006809163105120949
+PSI,Motor nucleus of trigeminal,Orbital area medial part,0.9998883268261798,0.0001116794097333508
+PSI,Motor nucleus of trigeminal,Parasolitary nucleus,0.9918955290338147,0.008137490717094622
+PSI,Motor nucleus of trigeminal,Zona incerta,0.9917745499439128,0.008259465728296363
+PSI,Cortical amygdalar area anterior part,Parastrial nucleus,0.9960942979746084,0.003913349197759259
+PSI,Cortical amygdalar area anterior part,Cortical amygdalar area posterior part,0.9959931622421009,0.0040148866398787555
+PSI,Cortical amygdalar area anterior part,Visceral area,0.9948674334728318,0.0051457833904289315
+PSI,Cortical amygdalar area anterior part,fiber tracts,0.9919783552786581,0.00805399121085441
+PSI,Caudoputamen,Gustatory areas,0.9960381535067674,0.003969715397520809
+PSI,Caudoputamen,Dorsomedial nucleus of the hypothalamus,0.9948486007640057,0.005164713437232181
+PSI,Visceral area,fiber tracts,0.998738157454719,0.0012626393389414425
+PSI,Visceral area,Retrosplenial area lateral agranular part,0.9978122330467575,0.0021901636115546387
+PSI,Visceral area,Intercalated amygdalar nucleus,0.9938737049423835,0.006145137800067205
+PSI,Visceral area,Parastrial nucleus,0.993371072764026,0.006650996157039096
+PSI,Superior central nucleus raphe,Culmen,-0.9950702124186616,0.0049419790682680665
+PSI,Superior central nucleus raphe,Dorsal nucleus raphe,0.9918672724200925,0.008165978612626678
+PSI,Ventrolateral preoptic nucleus,Fastigial nucleus,-0.9938160045481544,0.006203195548185275
+PSI,Olivary pretectal nucleus,Copula pyramidis,0.9993980041451583,0.0006021771271000365
+PSI,Olivary pretectal nucleus,Posterior limiting nucleus of the thalamus,0.9985283250481265,0.001472758929094102
+PSI,Olivary pretectal nucleus,Dorsomedial nucleus of the hypothalamus,0.9961603990753911,0.003846991115226046
+PSI,Olivary pretectal nucleus,Medullary reticular nucleus ventral part,0.9952095018078659,0.004802009406279207
+PSI,Olivary pretectal nucleus,Parabrachial nucleus,0.9923601575877585,0.007669175503920946
+PSI,Cuneate nucleus,Posterior amygdalar nucleus,-0.9926559938043273,0.007371106172291933
+PSI,Orbital area medial part,Zona incerta,0.9931901174843208,0.0068331755745107995
+PSI,Orbital area medial part,Parasolitary nucleus,0.9918441151906519,0.008189325990260708
+PSI,Orbital area ventrolateral part,Dorsal premammillary nucleus,0.9965680174906205,0.003437885270670456
+PSI,Orbital area ventrolateral part,Periaqueductal gray,0.994933936039491,0.005078939968062358
+PSI,Orbital area ventrolateral part,Pyramus (VIII),-0.9939801285370312,0.006038063936831354
+PSI,Ventral tegmental area,Secondary motor area,0.997678421929383,0.002324277111150649
+PSI,Ventral tegmental area,Paragigantocellular reticular nucleus dorsal part,-0.9908850476327673,0.009156747714485002
+PSI,Olfactory tubercle,Perirhinal area,0.9945845069265755,0.005430210013076412
+PSI,Ventral tegmental nucleus,Pontine gray,0.9920097549729264,0.008022338103551269
+PSI,Hypoglossal nucleus,Folium-tuber vermis (VII),0.9949700869210021,0.005042605671435034
+PSI,Nucleus y,Central lobule,-0.9965522916765821,0.0034536653657970882
+PSI,Nucleus y,Tuberomammillary nucleus dorsal part,-0.9963717185673735,0.0036348796105696696
+PSI,Piriform-amygdalar area,Primary motor area,0.9933084417763214,0.006714047079210494
+PSI,Piriform-amygdalar area,Folium-tuber vermis (VII),0.9920041122660923,0.008028026276327992
+PSI,Periaqueductal gray,Dorsal premammillary nucleus,0.9931826256092712,0.006840718846613937
+PSI,Zona incerta,Parasolitary nucleus,0.9939398383350334,0.00607859897111316
+PSI,Dorsal peduncular area,Declive (VI),0.9980176927478414,0.0019842746235659773
+PSI,Dorsal peduncular area,Parafascicular nucleus,0.995911984246485,0.004096394532766082
+PSI,Dorsomedial nucleus of the hypothalamus,Copula pyramidis,0.9925430575422999,0.00748488444764693
+PSI,Dorsomedial nucleus of the hypothalamus,Posterior limiting nucleus of the thalamus,0.9914319541914106,0.008604962533793638
+PSI,Parasolitary nucleus,Ventral auditory area,0.9970269323942424,0.002977495950608887
+PSI,Parabrachial nucleus,Medullary reticular nucleus ventral part,0.9996438842774933,0.0003561791467686511
+PSI,Parabrachial nucleus,Dorsal auditory area,0.9972450864208572,0.002758715337506253
+PSI,Parabrachial nucleus,Posterior limiting nucleus of the thalamus,0.9971319181117443,0.002872202716248751
+PSI,Parabrachial nucleus,Copula pyramidis,0.9954014929465543,0.004609112712962791
+PSI,Dorsal nucleus raphe,Culmen,-0.9995283466283676,0.00047176463507039764
+PSI,Retrosplenial area lateral agranular part,fiber tracts,0.9998718826267647,0.00012812558096696438
+PSI,Retrosplenial area lateral agranular part,Parastrial nucleus,0.9946847688186095,0.005329407277779274
+PSI,Ectorhinal area,Paraflocculus,-0.9971666825173362,0.0028373389244530102
+PSI,Entorhinal area lateral part,Pyramus (VIII),-0.9966800420706001,0.003325481217837997
+PSI,Posterior hypothalamic nucleus,Paragigantocellular reticular nucleus lateral part,0.9955506331579249,0.0044592947342237945
+PSI,Pyramus (VIII),Dorsal premammillary nucleus,-0.9935307528206296,0.00649026344756021
+PSI,Piriform area,Primary motor area,0.9936206308317818,0.006399804298898658
+PSI,Paragigantocellular reticular nucleus dorsal part,Secondary motor area,-0.9920834625260105,0.007948039625568533
+PSI,Prelimbic area,Primary motor area,0.9926495020670102,0.007377645959071018
+PSI,Edinger-Westphal nucleus,Ansiform lobule,-0.9957375936489221,0.0042715163011173354
+PSI,Primary auditory area,Medullary reticular nucleus dorsal part,0.995353530412051,0.0046572979833248915
+PSI,Simple lobule,Paramedian lobule,0.9964414702748136,0.003564876353004852
+PSI,fiber tracts,Parastrial nucleus,0.99491546469954,0.005097505533822965
+PSI,Dorsal auditory area,Medullary reticular nucleus ventral part,0.9951649056465373,0.004846821237831221
+PSI,Paramedian lobule,Postsubiculum,0.9935822219248175,0.006438460550741065
+PSI,Posterior limiting nucleus of the thalamus,Copula pyramidis,0.9990564975773468,0.0009439478012298329
+PSI,Posterior limiting nucleus of the thalamus,Medullary reticular nucleus ventral part,0.9987955388764773,0.0012051870697963097
+PSI,Copula pyramidis,Medullary reticular nucleus ventral part,0.9973751109595649,0.0026283401020978916
+KET,Tuberomammillary nucleus ventral part,Accessory supraoptic group,0.9997227056282291,0.0002773328249639724
+KET,Tuberomammillary nucleus ventral part,fiber tracts,0.9994709848746123,0.0005291551032582837
+KET,Tuberomammillary nucleus ventral part,Dorsal cochlear nucleus,0.9991652365235207,0.000835112085527662
+KET,Tuberomammillary nucleus ventral part,Agranular insular area dorsal part,0.9989383304244848,0.0010622335458611283
+KET,Tuberomammillary nucleus ventral part,Lateral visual area,0.9987519390614296,0.0012488404152473916
+KET,Tuberomammillary nucleus ventral part,Anterior hypothalamic nucleus,0.997727693437054,0.002274892169106464
+KET,Tuberomammillary nucleus ventral part,Intermediate reticular nucleus,0.9958877441533005,0.004120734422806272
+KET,Tuberomammillary nucleus ventral part,Anteromedial nucleus,0.995877294887371,0.0041312268912699745
+KET,Tuberomammillary nucleus ventral part,Bed nuclei of the stria terminalis,0.9957696056077585,0.0042393678269856796
+KET,Tuberomammillary nucleus ventral part,Entorhinal area lateral part,0.9953057178544096,0.004705334891391648
+KET,Tuberomammillary nucleus ventral part,Ectorhinal area,0.995249813084194,0.004761504909621576
+KET,Tuberomammillary nucleus ventral part,Parasubthalamic nucleus,0.994385270027483,0.005630551820244567
+KET,Tuberomammillary nucleus ventral part,Primary somatosensory area mouth,0.9941489573739842,0.005868227039866013
+KET,Tuberomammillary nucleus ventral part,Bed nucleus of the anterior commissure,0.9941032792839397,0.005914175022934135
+KET,Inferior colliculus,Dorsal peduncular area,0.9998976914698572,0.00010231376401746699
+KET,Inferior colliculus,Primary somatosensory area mouth,0.9989969418220371,0.0010035615774712057
+KET,Inferior colliculus,Intermediate reticular nucleus,0.9985333795725069,0.0014676969679451872
+KET,Inferior colliculus,Interposed nucleus,0.998447816231254,0.0015533896539704968
+KET,Inferior colliculus,Lingula (I),0.9982927074484382,0.0017087516364497448
+KET,Inferior colliculus,Parasubthalamic nucleus,0.9980395639759023,0.0019623601940192623
+KET,Inferior colliculus,Zona incerta,0.9975083307279858,0.0024947786459896606
+KET,Inferior colliculus,Entorhinal area lateral part,0.9974223995746964,0.0025809281568847926
+KET,Principal sensory nucleus of the trigeminal,Subceruleus nucleus,0.9990353892241821,0.0009650763121906439
+KET,Principal sensory nucleus of the trigeminal,Nucleus ambiguus,0.9987860532993322,0.0012146841308248153
+KET,Principal sensory nucleus of the trigeminal,Primary somatosensory area lower limb,0.9982257276230581,0.0017758482624850615
+KET,Principal sensory nucleus of the trigeminal,Superior colliculus sensory related,0.997761388774855,0.002241120661054105
+KET,Principal sensory nucleus of the trigeminal,Lateral vestibular nucleus,0.9964878566372987,0.003518325417287171
+KET,Principal sensory nucleus of the trigeminal,Rhomboid nucleus,0.9955652481614141,0.004444614520353186
+KET,Principal sensory nucleus of the trigeminal,Inferior salivatory nucleus,0.995439904042289,0.004570524912048542
+KET,Principal sensory nucleus of the trigeminal,Parapyramidal nucleus,0.9953304580349723,0.004680478334614793
+KET,Principal sensory nucleus of the trigeminal,Primary visual area,0.9948531021239957,0.005160188779105341
+KET,Principal sensory nucleus of the trigeminal,Retrosplenial area dorsal part,0.9946836219716458,0.005330560253737801
+KET,Interfascicular nucleus raphe,Induseum griseum,0.9999092492941148,0.00010000500033334732
+KET,Interfascicular nucleus raphe,Spinal nucleus of the trigeminal oral part,0.9998548544230841,0.0001451561115545494
+KET,Interfascicular nucleus raphe,Parabrachial nucleus,0.9996008161186104,0.00039926357648454875
+KET,Interfascicular nucleus raphe,Bed nuclei of the stria terminalis,0.9969268285806169,0.0030779033077591683
+KET,Interfascicular nucleus raphe,Periventricular hypothalamic nucleus posterior part,0.9968528596237237,0.003152103037413061
+KET,Interfascicular nucleus raphe,Interposed nucleus,0.9966246505026266,0.003381058840460526
+KET,Interfascicular nucleus raphe,Central lateral nucleus of the thalamus,0.9956197718110086,0.00438984949444028
+KET,Interfascicular nucleus raphe,Anteromedial nucleus,0.9953440638132957,0.004666808818906217
+KET,Interfascicular nucleus raphe,Superior central nucleus raphe,0.9946101020418384,0.0054044758640405
+KET,Interfascicular nucleus raphe,Anterior hypothalamic nucleus,0.9945877673449406,0.005426931847170679
+KET,Interfascicular nucleus raphe,Periventricular hypothalamic nucleus anterior part,0.9945801051832431,0.005434635733608129
+KET,Interfascicular nucleus raphe,Paraventricular hypothalamic nucleus,0.9940721439784119,0.00594549550418145
+KET,Induseum griseum,Spinal nucleus of the trigeminal oral part,0.9997333803730425,0.00026665517628915566
+KET,Induseum griseum,Parabrachial nucleus,0.9996754297290202,0.00032462295531031794
+KET,Induseum griseum,Bed nuclei of the stria terminalis,0.9964731103142012,0.0035331238236205663
+KET,Induseum griseum,Periventricular hypothalamic nucleus posterior part,0.9962254870143602,0.0037816544357738703
+KET,Induseum griseum,Central lateral nucleus of the thalamus,0.9959296778713908,0.004078628436953595
+KET,Induseum griseum,Superior central nucleus raphe,0.9958848605519979,0.0041236299353721315
+KET,Induseum griseum,Periventricular hypothalamic nucleus anterior part,0.9957368050226546,0.004272308303533272
+KET,Induseum griseum,Interposed nucleus,0.9954625022269677,0.004547823463088948
+KET,Induseum griseum,Anteromedial nucleus,0.9950564193092452,0.004955840607726638
+KET,Induseum griseum,Nucleus of the solitary tract,0.9948148609228235,0.005198628560905304
+KET,Induseum griseum,Paraventricular hypothalamic nucleus,0.9946469737207058,0.0053674050607533655
+KET,Anterior amygdalar area,Edinger-Westphal nucleus,0.9999208245976403,0.00010000500033334732
+KET,Anterior amygdalar area,Parasolitary nucleus,0.9970780950692815,0.0029261820284777916
+KET,Anterior amygdalar area,Primary motor area,0.9970716734243162,0.002932622512604618
+KET,Anterior amygdalar area,Inferior olivary complex,0.9968974248122074,0.0031073981525144437
+KET,Anterior amygdalar area,Retrosplenial area lateral agranular part,0.996404005345119,0.0036024757857329166
+KET,Anterior amygdalar area,Paraventricular hypothalamic nucleus,0.996178263861027,0.0038290576323611676
+KET,Anterior amygdalar area,Superior olivary complex,0.9961228101043654,0.0038847256811320825
+KET,Anterior amygdalar area,Field CA2,0.9946857928366,0.005328377788341507
+KET,Anterior amygdalar area,Central lateral nucleus of the thalamus,0.9944242801065523,0.005591322242860819
+KET,Anterior amygdalar area,Culmen,0.9941809034790824,0.005836093432933007
+KET,Intergeniculate leaflet of the lateral geniculate complex,Nucleus raphe pallidus,0.9972466009363582,0.002757196639272902
+KET,Intergeniculate leaflet of the lateral geniculate complex,Posterior amygdalar nucleus,0.9971545700656013,0.0028494858658942622
+KET,Intergeniculate leaflet of the lateral geniculate complex,Lateral dorsal nucleus of thalamus,0.9958796703696987,0.004128841577831468
+KET,Intergeniculate leaflet of the lateral geniculate complex,Lateral preoptic area,0.9940637153145658,0.005953974465824587
+KET,Periventricular hypothalamic nucleus anterior part,Superior central nucleus raphe,0.9996401999462077,0.0003598647973619719
+KET,Periventricular hypothalamic nucleus anterior part,Inferior olivary complex,0.9987967887150188,0.0012039357248405083
+KET,Periventricular hypothalamic nucleus anterior part,Paraventricular hypothalamic nucleus,0.9978414706739454,0.002160862308292
+KET,Periventricular hypothalamic nucleus anterior part,Central lateral nucleus of the thalamus,0.997172149916038,0.002831856005890854
+KET,Periventricular hypothalamic nucleus anterior part,Parabrachial nucleus,0.9965242419594668,0.0034818125208549234
+KET,Periventricular hypothalamic nucleus anterior part,Field CA2,0.9950917178875655,0.004920367290274282
+KET,Periventricular hypothalamic nucleus anterior part,Retrosplenial area lateral agranular part,0.9944073140298326,0.0056083835936258306
+KET,Paraventricular hypothalamic nucleus,Central lateral nucleus of the thalamus,0.9997718628959295,0.00022816313129826678
+KET,Paraventricular hypothalamic nucleus,Inferior olivary complex,0.999588741003534,0.0004113435866401863
+KET,Paraventricular hypothalamic nucleus,Retrosplenial area lateral agranular part,0.9991963227570999,0.0008040003645907686
+KET,Paraventricular hypothalamic nucleus,Anteromedial nucleus,0.997949171621747,0.0020529342063921735
+KET,Paraventricular hypothalamic nucleus,Bed nuclei of the stria terminalis,0.9968110774643842,0.003194017984629912
+KET,Paraventricular hypothalamic nucleus,Edinger-Westphal nucleus,0.9968017396704097,0.0032033856952448387
+KET,Paraventricular hypothalamic nucleus,Parabrachial nucleus,0.9967462756647557,0.003259029206453696
+KET,Paraventricular hypothalamic nucleus,Anterior hypothalamic nucleus,0.9958980517285597,0.004110384338695199
+KET,Paraventricular hypothalamic nucleus,Superior central nucleus raphe,0.9958479229653899,0.00416072084125856
+KET,Paraventricular hypothalamic nucleus,Lateral visual area,0.9948275064947093,0.005185917159004033
+KET,Anterior cingulate area dorsal part,Anteromedial visual area,0.9990541487477089,0.0009462988518507986
+KET,Anterior cingulate area dorsal part,Declive (VI),0.998656904134202,0.0013439986274711626
+KET,Anterior cingulate area dorsal part,Paragigantocellular reticular nucleus dorsal part,0.9983353350382768,0.0016660520560192159
+KET,Anterior cingulate area dorsal part,Visceral area,0.9966492317714959,0.0033563946243795077
+KET,Anterior cingulate area dorsal part,Medial geniculate complex,0.9961441204752458,0.0038633325931335867
+KET,Anterior cingulate area dorsal part,Presubiculum,0.9956954022717319,0.004313889182638263
+KET,Infralimbic area,Dorsal terminal nucleus of the accessory optic tract,0.9989904986932957,0.001010011196333464
+KET,Infralimbic area,Paragigantocellular reticular nucleus lateral part,0.9989687008751565,0.0010318312796912528
+KET,Infralimbic area,Posterior complex of the thalamus,0.99886030907029,0.0011403408712862423
+KET,Infralimbic area,Anterodorsal preoptic nucleus,0.9982190896925376,0.0017824980135454688
+KET,Infralimbic area,Suprachiasmatic nucleus,0.9979312631941057,0.0020708795976384173
+KET,Infralimbic area,Medial mammillary nucleus,0.9971624270772256,0.0028416064649408436
+KET,Infralimbic area,Barrington's nucleus,0.9956614165220603,0.004348022442287332
+KET,Anterior cingulate area ventral part,Subfornical organ,0.9989557234616382,0.0010448221750028672
+KET,Anterior cingulate area ventral part,Locus ceruleus,0.998706618986407,0.0012942181527205818
+KET,Anterior cingulate area ventral part,Linear nucleus of the medulla,0.9977740591913586,0.002228421897404739
+KET,Anterior cingulate area ventral part,Retrosplenial area dorsal part,0.9966651881254374,0.003340384752798248
+KET,Anterior cingulate area ventral part,Nucleus raphe magnus,0.99562364675203,0.004385957513193519
+KET,Anterior cingulate area ventral part,Rhomboid nucleus,0.9950313456578108,0.004981039146079623
+KET,Anterior cingulate area ventral part,Central amygdalar nucleus,0.9942086442271858,0.005808190703171415
+KET,Nucleus accumbens,Anterior olfactory nucleus,0.9984550011239195,0.0015461936175854736
+KET,Nucleus accumbens,Nucleus of Roller,0.9983828811170326,0.0016184278310483777
+KET,Nucleus accumbens,Parvicellular reticular nucleus,0.9976679895238955,0.002334733847312155
+KET,Nucleus accumbens,Paraventricular nucleus of the thalamus,0.9971478620829005,0.002856213012782959
+KET,Paraventricular hypothalamic nucleus descending division,Nucleus of the solitary tract,0.999767012685518,0.0002330144602428069
+KET,Paraventricular hypothalamic nucleus descending division,Main olfactory bulb,0.9980946445482207,0.0019071729504990937
+KET,Paraventricular hypothalamic nucleus descending division,Pontine gray,0.9969264142890927,0.0030783188764833755
+KET,Paraventricular hypothalamic nucleus descending division,Lateral terminal nucleus of the accessory optic tract,0.9948644164534839,0.005148815979315741
+KET,Paraventricular hypothalamic nucleus descending division,Posterior auditory area,0.9945836693877578,0.005431052112631107
+KET,Lateral terminal nucleus of the accessory optic tract,Main olfactory bulb,0.999048927185299,0.0009515253714160816
+KET,Lateral terminal nucleus of the accessory optic tract,Lateral dorsal nucleus of thalamus,0.9989278533205329,0.0010727218398591902
+KET,Lateral terminal nucleus of the accessory optic tract,Pontine gray,0.9967495136898784,0.0032557806165745577
+KET,Lateral terminal nucleus of the accessory optic tract,Periventricular hypothalamic nucleus posterior part,0.9960973088253728,0.003910326545967925
+KET,Lateral terminal nucleus of the accessory optic tract,Nucleus of the solitary tract,0.9944200781198733,0.005595547798934695
+KET,Anterodorsal preoptic nucleus,Posterior complex of the thalamus,0.9997595699701569,0.00024045893777636102
+KET,Anterodorsal preoptic nucleus,Paragigantocellular reticular nucleus lateral part,0.9997049888263735,0.00029505469798312084
+KET,Anterodorsal preoptic nucleus,Dorsal terminal nucleus of the accessory optic tract,0.9996483666015152,0.0003516952360047444
+KET,Anterodorsal preoptic nucleus,Medial mammillary nucleus,0.9987929677744608,0.0012077612756529754
+KET,Anterodorsal preoptic nucleus,Culmen,0.9943117228694276,0.005704516992768718
+KET,Dorsal terminal nucleus of the accessory optic tract,Posterior complex of the thalamus,0.9999887438586641,0.00010000500033334732
+KET,Dorsal terminal nucleus of the accessory optic tract,Medial mammillary nucleus,0.9994051061512883,0.0005950708682660255
+KET,Dorsal terminal nucleus of the accessory optic tract,Paragigantocellular reticular nucleus lateral part,0.9993681099657107,0.0006320897609383191
+KET,Dorsal terminal nucleus of the accessory optic tract,Suprachiasmatic nucleus,0.9946382450540481,0.005376180742164318
+KET,Inferior olivary complex,Central lateral nucleus of the thalamus,0.9988205453540698,0.0011801507499636591
+KET,Inferior olivary complex,Retrosplenial area lateral agranular part,0.9979562380163567,0.0020458533151078624
+KET,Inferior olivary complex,Edinger-Westphal nucleus,0.9971692515729682,0.0028347625725073885
+KET,Inferior olivary complex,Superior central nucleus raphe,0.9971227023829423,0.002881444995250968
+KET,Inferior olivary complex,Anteromedial nucleus,0.9957157024241804,0.004293501476251264
+KET,Inferior olivary complex,Parabrachial nucleus,0.9954654231961049,0.004544889183952246
+KET,Inferior olivary complex,Field CA2,0.9953181596269521,0.004692834516324849
+KET,Inferior olivary complex,Superior olivary complex,0.9952324938835015,0.0047789069238291775
+KET,Inferior olivary complex,Bed nuclei of the stria terminalis,0.9942837533680752,0.005732646898210506
+KET,Anterior hypothalamic nucleus,Lateral visual area,0.9997704587688747,0.00022956757974581894
+KET,Anterior hypothalamic nucleus,Bed nuclei of the stria terminalis,0.9996576598549168,0.000342398756847787
+KET,Anterior hypothalamic nucleus,Anteromedial nucleus,0.9996472498199673,0.0003528124110125146
+KET,Anterior hypothalamic nucleus,Dorsal cochlear nucleus,0.9996097397803081,0.0003903363910298506
+KET,Anterior hypothalamic nucleus,Central lateral nucleus of the thalamus,0.9974628660066476,0.0025403579720677007
+KET,Anterior hypothalamic nucleus,fiber tracts,0.9974354699477866,0.002567824092389611
+KET,Anterior hypothalamic nucleus,Retrosplenial area lateral agranular part,0.9974302036637208,0.0025731039306619375
+KET,Anterior hypothalamic nucleus,Agranular insular area dorsal part,0.9972360035012213,0.0027678233904046426
+KET,Anterior hypothalamic nucleus,Accessory supraoptic group,0.9971944357608444,0.0028095072110730533
+KET,Anterior hypothalamic nucleus,Parabrachial nucleus,0.9961125043882799,0.0038950715634790472
+KET,Anterior hypothalamic nucleus,Intermediate reticular nucleus,0.9955038561174542,0.004506281936966163
+KET,Interposed nucleus,Periventricular hypothalamic nucleus posterior part,0.9980477595231522,0.0019541485820788337
+KET,Interposed nucleus,Dorsal peduncular area,0.9975529394206072,0.0024500595255333127
+KET,Interposed nucleus,Spinal nucleus of the trigeminal oral part,0.9970037693474868,0.003000728337890043
+KET,Interposed nucleus,Intermediate reticular nucleus,0.9970035715287454,0.0030009267511429258
+KET,Interposed nucleus,Primary somatosensory area mouth,0.9962687406411038,0.003738237871600118
+KET,Interposed nucleus,Parabrachial nucleus,0.994734667874982,0.005279242837377572
+KET,Interposed nucleus,Parasubthalamic nucleus,0.9942646331163044,0.005751877259313408
+KET,Interposed nucleus,Bed nuclei of the stria terminalis,0.9942157163331149,0.005801077426881506
+KET,Dorsal cochlear nucleus,Lateral visual area,0.9999560804442601,0.00010000500033334732
+KET,Dorsal cochlear nucleus,Anteromedial nucleus,0.998751583832376,0.0012491960882656712
+KET,Dorsal cochlear nucleus,Agranular insular area dorsal part,0.9987481213589038,0.0012526628957583341
+KET,Dorsal cochlear nucleus,Accessory supraoptic group,0.9985786199109896,0.0014223912079255364
+KET,Dorsal cochlear nucleus,fiber tracts,0.9985603674860287,0.001440669780500191
+KET,Dorsal cochlear nucleus,Bed nuclei of the stria terminalis,0.9985468579339741,0.0014541989009027837
+KET,Dorsal cochlear nucleus,Retrosplenial area lateral agranular part,0.99648224346962,0.0035239583845638783
+KET,Dorsal cochlear nucleus,Intermediate reticular nucleus,0.9956012443324473,0.004408458657774298
+KET,Dorsal cochlear nucleus,Central lateral nucleus of the thalamus,0.9955950609587523,0.0044146693700769036
+KET,Dorsal cochlear nucleus,Bed nucleus of the anterior commissure,0.994742611438661,0.005271257258691455
+KET,Interpeduncular nucleus,Ventromedial hypothalamic nucleus,0.9992210845062202,0.0007792190060702514
+KET,Interpeduncular nucleus,Field CA2,0.9980846158104141,0.001917220883573929
+KET,Interpeduncular nucleus,Superior olivary complex,0.997860138287917,0.002142154487555333
+KET,Interpeduncular nucleus,Periventricular hypothalamic nucleus intermediate part,0.9967563715534716,0.0032489004125641104
+KET,Interpeduncular nucleus,Parasolitary nucleus,0.9957468435378216,0.004262226859807283
+KET,Interpeduncular nucleus,Superior colliculus motor related,0.9955451527404844,0.004464799660184019
+KET,Interpeduncular nucleus,Parafascicular nucleus,0.9955129731470819,0.004497123772661621
+KET,Interpeduncular nucleus,Subiculum,0.9954885378578202,0.004521669499149346
+KET,Ventral cochlear nucleus,Paramedian lobule,0.9965298285551777,0.003476206455476578
+KET,Ventral cochlear nucleus,Red nucleus,0.9957650087164628,0.004243984258216824
+KET,Agranular insular area dorsal part,Lateral visual area,0.9985841907854025,0.0014168124194731742
+KET,Agranular insular area dorsal part,Bed nucleus of the anterior commissure,0.9980430040002969,0.001958913418370042
+KET,Agranular insular area dorsal part,Ectorhinal area,0.9979522133625077,0.002049886219368768
+KET,Agranular insular area dorsal part,Accessory supraoptic group,0.9975767797622,0.002426160987643995
+KET,Agranular insular area dorsal part,fiber tracts,0.9969748773071381,0.003029707625506008
+KET,Agranular insular area dorsal part,Tegmental reticular nucleus,0.9966575840130336,0.0033480143374396017
+KET,Agranular insular area dorsal part,Anteromedial nucleus,0.9962317826998335,0.003775334917088079
+KET,Agranular insular area dorsal part,Retrosplenial area lateral agranular part,0.9953621768278517,0.0046486112424012314
+KET,Agranular insular area dorsal part,Bed nuclei of the stria terminalis,0.9950088045421586,0.005003693076605549
+KET,Inferior salivatory nucleus,Primary visual area,0.999929139106515,0.00010000500033334732
+KET,Inferior salivatory nucleus,Nucleus ambiguus,0.9987479200289464,0.0012528644780926172
+KET,Inferior salivatory nucleus,Perirhinal area,0.9975707125756305,0.0024322429305508836
+KET,Inferior salivatory nucleus,Nucleus raphe pontis,0.9975512857445779,0.0024517172595087872
+KET,Inferior salivatory nucleus,Anterolateral visual area,0.9967615901642363,0.003243664833186486
+KET,Inferior salivatory nucleus,Basolateral amygdalar nucleus,0.996576078008325,0.0034297970268522904
+KET,Inferior salivatory nucleus,Pontine reticular nucleus,0.9961235859337085,0.003883946832346465
+KET,Inferior salivatory nucleus,Superior colliculus sensory related,0.9950448686420267,0.004967448727663583
+KET,Agranular insular area posterior part,Lateral preoptic area,0.9986566825776629,0.0013442204820067638
+KET,Agranular insular area posterior part,Accessory olfactory bulb,0.9985876058558004,0.0014133925129797388
+KET,Agranular insular area posterior part,Central amygdalar nucleus,0.9949460195568369,0.005066794996892509
+KET,Agranular insular area posterior part,Parapyramidal nucleus,0.9941693416812856,0.005847722971365779
+KET,Trochlear nucleus,Median eminence,0.999409708376927,0.0005904659137647363
+KET,Trochlear nucleus,Nodulus (X),0.995651004923002,0.004358479464446502
+KET,Trochlear nucleus,Postsubiculum,0.9952220904473036,0.004789360250702296
+KET,Periventricular hypothalamic nucleus intermediate part,Superior colliculus motor related,0.9998533708143237,0.0001466399367863268
+KET,Periventricular hypothalamic nucleus intermediate part,Parafascicular nucleus,0.9995919118587385,0.0004081714318877101
+KET,Periventricular hypothalamic nucleus intermediate part,Field CA2,0.9961792362674081,0.0038280814959187662
+KET,Periventricular hypothalamic nucleus intermediate part,Subiculum,0.9961369162962364,0.0038705646842658327
+KET,Periventricular hypothalamic nucleus intermediate part,Lateral hypothalamic area,0.9950182049767518,0.00499424553187546
+KET,Periventricular hypothalamic nucleus intermediate part,Posterior auditory area,0.994736236901039,0.005277665507391793
+KET,Periventricular hypothalamic nucleus intermediate part,Superior olivary complex,0.9943321436879281,0.0056839795613616755
+KET,Agranular insular area ventral part,Medial preoptic area,0.9998807474579162,0.00011925965323353168
+KET,Agranular insular area ventral part,Subparafascicular area,0.9991248422936568,0.000875540880423463
+KET,Agranular insular area ventral part,Mediodorsal nucleus of thalamus,0.99833622916566,0.001665156438132655
+KET,Agranular insular area ventral part,Barrington's nucleus,0.9961257122429945,0.003881812250807976
+KET,Agranular insular area ventral part,Diagonal band nucleus,0.9953945041740188,0.004616133796535104
+KET,Periventricular hypothalamic nucleus posterior part,Spinal nucleus of the trigeminal oral part,0.9979561111850843,0.002045980406132099
+KET,Periventricular hypothalamic nucleus posterior part,Main olfactory bulb,0.9969808963758214,0.0030236703113761553
+KET,Periventricular hypothalamic nucleus posterior part,Parabrachial nucleus,0.9942219442903698,0.005794813255388215
+KET,Anteromedial nucleus,Bed nuclei of the stria terminalis,0.9996871386005027,0.0003129103508351695
+KET,Anteromedial nucleus,Lateral visual area,0.9991584280328807,0.0008419262876119787
+KET,Anteromedial nucleus,Central lateral nucleus of the thalamus,0.9989942897560379,0.001006216309841738
+KET,Anteromedial nucleus,Retrosplenial area lateral agranular part,0.9987776358375092,0.0012231118589306402
+KET,Anteromedial nucleus,Parabrachial nucleus,0.9971913436471336,0.002812608029122184
+KET,Anteromedial nucleus,fiber tracts,0.9951941547063018,0.00481743050090413
+KET,Anteromedial nucleus,Accessory supraoptic group,0.9949227846527972,0.0050901481988640885
+KET,Midbrain reticular nucleus,Reticular nucleus of the thalamus,0.9983480614437383,0.0016533045112816108
+KET,Midbrain reticular nucleus,Orbital area ventrolateral part,0.9944062220317739,0.005609481733837525
+KET,Nucleus ambiguus,Primary visual area,0.9982724773885655,0.0017290164993523519
+KET,Nucleus ambiguus,Subceruleus nucleus,0.9968624980703364,0.0031424342082338064
+KET,Nucleus ambiguus,Superior colliculus sensory related,0.9965895796802556,0.0034162490591972006
+KET,Nucleus ambiguus,Primary somatosensory area lower limb,0.9959838434588344,0.004024242955980683
+KET,Nucleus ambiguus,Perirhinal area,0.99474739253769,0.005266450902269097
+KET,Intermediate reticular nucleus,Primary somatosensory area mouth,0.9996611364041584,0.0003389210230835596
+KET,Intermediate reticular nucleus,Parasubthalamic nucleus,0.9991690036048926,0.0008313418640139638
+KET,Intermediate reticular nucleus,Entorhinal area lateral part,0.9991283522348028,0.0008720278710054714
+KET,Intermediate reticular nucleus,Dorsal peduncular area,0.9983491461174522,0.0016522180433787763
+KET,Intermediate reticular nucleus,fiber tracts,0.9982455386871251,0.0017560021826521425
+KET,Intermediate reticular nucleus,Lingula (I),0.9978707448320835,0.002131525254669953
+KET,Intermediate reticular nucleus,Accessory supraoptic group,0.9975084063878297,0.0024947027971584934
+KET,Intermediate reticular nucleus,Bed nuclei of the stria terminalis,0.9951203426115158,0.004891601788827997
+KET,Intermediate reticular nucleus,Lateral visual area,0.995089480287985,0.004922615929325292
+KET,Pontine reticular nucleus,Supplemental somatosensory area,0.9987390890979362,0.0012617065190870626
+KET,Pontine reticular nucleus,Primary somatosensory area nose,0.998306361075943,0.001695074751871189
+KET,Pontine reticular nucleus,Nucleus raphe pontis,0.9973234138565459,0.0026801746047933205
+KET,Pontine reticular nucleus,Superior colliculus sensory related,0.9972284405843203,0.002775407297877684
+KET,Pontine reticular nucleus,Primary visual area,0.9969541825242574,0.0030504654180457144
+KET,Pontine reticular nucleus,Basolateral amygdalar nucleus,0.9954502348010262,0.004560146882105275
+KET,Pontine reticular nucleus,Lateral septal nucleus rostral (rostroventral) part,0.9945251471309315,0.005489894802741488
+KET,Pontine reticular nucleus,Subceruleus nucleus,0.9942348273616163,0.005781855396378839
+KET,Locus ceruleus,Retrosplenial area dorsal part,0.9993896740496421,0.0006105122750571562
+KET,Locus ceruleus,Rhomboid nucleus,0.998801943922695,0.0011987743202080646
+KET,Locus ceruleus,Parapyramidal nucleus,0.9961388758842954,0.0038685974987318484
+KET,Locus ceruleus,Subfornical organ,0.9956623180763492,0.004347116959895668
+KET,Locus ceruleus,Primary somatosensory area lower limb,0.9943183940970629,0.0056978076227572495
+KET,Paraventricular nucleus of the thalamus,Anterior olfactory nucleus,0.9995411617423191,0.0004589435561654634
+KET,Paraventricular nucleus of the thalamus,Retrochiasmatic area,0.9983284680536908,0.0016729305145512488
+KET,Paraventricular nucleus of the thalamus,Nucleus of Roller,0.9957619896359879,0.004247016183445397
+KET,Accessory olfactory bulb,Parapyramidal nucleus,0.9982738318329307,0.0017276597120251913
+KET,Accessory olfactory bulb,Primary somatosensory area lower limb,0.9972911927866728,0.0027124826704904175
+KET,Accessory olfactory bulb,Lateral preoptic area,0.9968314457659903,0.0031735847310557295
+KET,Accessory olfactory bulb,Central amygdalar nucleus,0.9953608674148553,0.0046499267573847465
+KET,Lateral dorsal nucleus of thalamus,Posterior amygdalar nucleus,0.9972451852504933,0.0027586162348557713
+KET,Lateral dorsal nucleus of thalamus,Main olfactory bulb,0.9959664271742801,0.004041729621999937
+KET,Lateral dorsal nucleus of thalamus,Pontine gray,0.9946029232250159,0.005411693609683021
+KET,Anterior olfactory nucleus,Retrochiasmatic area,0.996267597254413,0.0037393855411999403
+KET,Anterior olfactory nucleus,Nucleus of Roller,0.995903809296374,0.0041046030730713745
+KET,Nucleus prepositus,Sublaterodorsal nucleus,0.9976598749332148,0.002342867438613324
+KET,Retrochiasmatic area,Nucleus of Roller,0.9951391826730301,0.004872669522683276
+KET,Nucleus of Roller,Parvicellular reticular nucleus,0.9995536871912015,0.0004464124360044939
+KET,Nucleus of Roller,Preparasubthalamic nucleus,0.9942216713102612,0.005795087821995472
+KET,Nucleus of reuniens,Lateral posterior nucleus of the thalamus,0.9987808122263041,0.0012199315877371136
+KET,Nucleus of reuniens,Olivary pretectal nucleus,-0.997097900120327,0.0029063191366428577
+KET,Rhomboid nucleus,Retrosplenial area dorsal part,0.9994780090938771,0.0005221271908042707
+KET,Rhomboid nucleus,Dorsomedial nucleus of the hypothalamus,0.9970550763254419,0.0029492684944879923
+KET,Rhomboid nucleus,Primary somatosensory area lower limb,0.9964834965506302,0.003522700880749322
+KET,Rhomboid nucleus,Lateral vestibular nucleus,0.9964552194646769,0.003551078156706664
+KET,Rhomboid nucleus,Parapyramidal nucleus,0.9964067692162026,0.003599701943761617
+KET,Rhomboid nucleus,Subceruleus nucleus,0.9959002127384419,0.004108214430305676
+KET,Lateral hypothalamic area,Parasubiculum,0.9991255469723559,0.0008748355847279438
+KET,Lateral hypothalamic area,Uvula (IX),0.9991174530902619,0.0008829365835491946
+KET,Lateral hypothalamic area,Subiculum,0.9986686707135235,0.0013322162926632968
+KET,Lateral hypothalamic area,Parafascicular nucleus,0.9974012746091516,0.0026021079391571997
+KET,Lateral hypothalamic area,Superior colliculus motor related,0.9961622450306371,0.0038451380466465613
+KET,Medial vestibular nucleus,Midbrain reticular nucleus retrorubral area,-0.9987973177716869,0.0012034060309788538
+KET,Medial vestibular nucleus,Lateral mammillary nucleus,0.9977726656127679,0.002229818585914635
+KET,Medial vestibular nucleus,Gustatory areas,0.9962789263623482,0.0037280140547117178
+KET,Linear nucleus of the medulla,Subfornical organ,0.9997727765520649,0.00022724926709399742
+KET,Linear nucleus of the medulla,Nucleus raphe magnus,0.9990981134802165,0.0009022934641276063
+KET,Linear nucleus of the medulla,Gustatory areas,0.9959043384243609,0.004104071768901868
+KET,Linear nucleus of the medulla,Central amygdalar nucleus,0.9954317577108077,0.004578708595244018
+KET,Linear nucleus of the medulla,Lateral mammillary nucleus,0.9942320662578142,0.0057846325145807075
+KET,Nucleus raphe magnus,Subfornical organ,0.9983649699264407,0.0016363681940069976
+KET,Nucleus raphe magnus,Gustatory areas,0.9980130598400041,0.0019889167442660276
+KET,Lateral vestibular nucleus,Dorsomedial nucleus of the hypothalamus,0.9992744425643671,0.0007258207798176444
+KET,Lateral vestibular nucleus,Subceruleus nucleus,0.9990688974934031,0.0009315362517975183
+KET,Lateral vestibular nucleus,Superior colliculus sensory related,0.9983791232154005,0.0016221918265810914
+KET,Lateral vestibular nucleus,Lateral septal nucleus rostral (rostroventral) part,0.9962800766619687,0.003726859459421129
+KET,Lateral vestibular nucleus,Supplemental somatosensory area,0.9960676313398845,0.003940120751148602
+KET,Lateral mammillary nucleus,Central amygdalar nucleus,0.9973556600193779,0.002647842423384118
+KET,Red nucleus,Paramedian lobule,0.9993724902436147,0.0006277067230357445
+KET,Lateral posterior nucleus of the thalamus,Olivary pretectal nucleus,-0.9965622447145381,0.003443677943825706
+KET,Lateral preoptic area,Nucleus raphe pallidus,0.9982379850801617,0.001763569094047579
+KET,Lateral preoptic area,Magnocellular nucleus,0.9947933471204621,0.005220254730595637
+KET,Lateral preoptic area,Prelimbic area,0.9943792429616778,0.005636612935842586
+KET,Nucleus raphe pallidus,Prelimbic area,0.9984843602588158,0.001516789484975148
+KET,Nucleus raphe pallidus,Magnocellular nucleus,0.998397832115707,0.0016034527277977973
+KET,Nucleus raphe pallidus,Primary somatosensory area barrel field,0.9963260314139523,0.003680734184781609
+KET,Lateral reticular nucleus,Basomedial amygdalar nucleus,0.9993123977820372,0.000687838724789191
+KET,Lateral reticular nucleus,Olfactory tubercle,0.9986113317710206,0.001389633322270915
+KET,Lateral reticular nucleus,Cortical amygdalar area anterior part,0.9984785075771955,0.0015226510677963682
+KET,Lateral reticular nucleus,Retrosplenial area ventral part,0.9945106754277047,0.005504446278449473
+KET,Nucleus raphe pontis,Basolateral amygdalar nucleus,0.9997427595723659,0.0002572735196280789
+KET,Nucleus raphe pontis,Primary visual area,0.9982463247284636,0.0017552147601206734
+KET,Nucleus raphe pontis,Medial preoptic nucleus,0.9975969148974807,0.002405977145670507
+KET,Nucleus raphe pontis,Nucleus of the lateral lemniscus,0.9970279513891094,0.0029764739176897158
+KET,Nucleus raphe pontis,Primary somatosensory area nose,0.995601249483009,0.004408453484456507
+KET,Nucleus raphe pontis,Perirhinal area,0.9953641952206966,0.004646583447046418
+KET,Nucleus raphe pontis,Supraoptic nucleus,0.9945676529075445,0.005447155945491028
+KET,Nucleus raphe pontis,Anterolateral visual area,0.9942788309397155,0.005737597638407021
+KET,Midbrain reticular nucleus retrorubral area,Gustatory areas,-0.9968860837988615,0.0031187745264257835
+KET,Lateral septal nucleus rostral (rostroventral) part,Supplemental somatosensory area,0.9984371610473777,0.0015640614593049745
+KET,Lateral septal nucleus rostral (rostroventral) part,Dentate gyrus,0.9970062452782958,0.0029982449694105633
+KET,Lateral septal nucleus rostral (rostroventral) part,Superior colliculus sensory related,0.9961588399473033,0.003848556254042477
+KET,Lateral septal nucleus rostral (rostroventral) part,Dorsomedial nucleus of the hypothalamus,0.994921358145731,0.005091581986601989
+KET,Lateral septal nucleus rostral (rostroventral) part,Subceruleus nucleus,0.9941352978014043,0.0058819670999651534
+KET,Reticular nucleus of the thalamus,Medial septal nucleus,0.9985023550289894,0.0014987675622088704
+KET,Reticular nucleus of the thalamus,Orbital area ventrolateral part,0.9971118943361865,0.002892284288455169
+KET,Reticular nucleus of the thalamus,Motor nucleus of trigeminal,0.994614038392574,0.005400518189633096
+KET,Anteroventral periventricular nucleus,Cuneate nucleus,0.9970749965197461,0.002929289663040522
+KET,Barrington's nucleus,Subparafascicular area,0.9967929694556846,0.003212184088102752
+KET,Barrington's nucleus,Suprachiasmatic nucleus,0.9964284153803351,0.0035779779554452372
+KET,Barrington's nucleus,Medial preoptic area,0.9952865411536452,0.00472460222319017
+KET,Barrington's nucleus,Medial geniculate complex,0.9946591538837525,0.005355159421052315
+KET,Suprachiasmatic nucleus,Posterior complex of the thalamus,0.994219037562115,0.005797736880762354
+KET,Bed nucleus of the anterior commissure,Tegmental reticular nucleus,0.9995308491863287,0.00046926089934679093
+KET,Bed nucleus of the anterior commissure,Ectorhinal area,0.9982922989173298,0.001709160866316827
+KET,Bed nucleus of the anterior commissure,Retrosplenial area lateral agranular part,0.9954296158571847,0.00458086028059133
+KET,Bed nucleus of the anterior commissure,Lateral visual area,0.9949085291547756,0.005104476547124477
+KET,Bed nucleus of the accessory olfactory tract,Piriform-amygdalar area,0.9983269704425589,0.0016744306343045223
+KET,Bed nucleus of the accessory olfactory tract,Medial amygdalar nucleus,0.9975133950777572,0.0024897016589014247
+KET,Bed nucleus of the accessory olfactory tract,Accessory facial motor nucleus,0.9966037602233793,0.003402020090195572
+KET,Bed nucleus of the accessory olfactory tract,Paracentral nucleus,0.9947302862807769,0.005283647633949617
+KET,Superior colliculus motor related,Parafascicular nucleus,0.9998720628117859,0.00012794537287428648
+KET,Superior colliculus motor related,Subiculum,0.996454404324899,0.003551896196589826
+KET,Superior colliculus motor related,Posterior auditory area,0.9952961830706314,0.004714914691123407
+KET,Superior colliculus motor related,Field CA2,0.9945407126156625,0.005474243752621692
+KET,Basolateral amygdalar nucleus,Medial preoptic nucleus,0.9984062960463673,0.0015949752506722048
+KET,Basolateral amygdalar nucleus,Nucleus of the lateral lemniscus,0.9978452117551534,0.00215711314141026
+KET,Basolateral amygdalar nucleus,Primary visual area,0.9972886973512293,0.002714984887078327
+KET,Basolateral amygdalar nucleus,Perirhinal area,0.9958328048981026,0.00417590205687828
+KET,Basolateral amygdalar nucleus,Anterolateral visual area,0.994926551844672,0.005086361789706571
+KET,Basolateral amygdalar nucleus,Supraoptic nucleus,0.994273278888118,0.005743181652595076
+KET,Magnocellular nucleus,Prelimbic area,0.9999240877437291,0.00010000500033334732
+KET,Magnocellular nucleus,Primary somatosensory area barrel field,0.9989486850036784,0.0010518680155646102
+KET,Magnocellular nucleus,Anterolateral visual area,0.9962871783897199,0.0037197312405535072
+KET,Magnocellular nucleus,Perirhinal area,0.9957752193014111,0.004233730300195022
+KET,Magnocellular nucleus,Suprageniculate nucleus,0.9950231159326189,0.004989310000320815
+KET,Magnocellular nucleus,Retrosplenial area ventral part,0.994539396974383,0.005475566616666365
+KET,Superior colliculus sensory related,Subceruleus nucleus,0.9994146305710788,0.0005855408244950863
+KET,Superior colliculus sensory related,Supplemental somatosensory area,0.9985840699043281,0.001416933471942064
+KET,Superior colliculus sensory related,Dorsomedial nucleus of the hypothalamus,0.995501297709641,0.004508851903003912
+KET,Superior colliculus sensory related,Primary visual area,0.9952419579939739,0.004769397522225497
+KET,Basomedial amygdalar nucleus,Olfactory tubercle,0.9966047892970387,0.0034009875101781465
+KET,Basomedial amygdalar nucleus,Cortical amygdalar area anterior part,0.9957508068841378,0.004258246592679873
+KET,Basomedial amygdalar nucleus,Posterolateral visual area,0.9951569481410746,0.004854817437488652
+KET,Suprageniculate nucleus,Zona incerta,0.9987491413138644,0.0012516416628588836
+KET,Suprageniculate nucleus,Primary somatosensory area barrel field,0.9982911428630101,0.0017103188988793797
+KET,Suprageniculate nucleus,Retrosplenial area ventral part,0.9966968750006254,0.003308592359658147
+KET,Suprageniculate nucleus,Prelimbic area,0.9961186508852558,0.003888901097808351
+KET,Suprageniculate nucleus,Anterolateral visual area,0.9948548368388159,0.005158445091214003
+KET,Suprageniculate nucleus,Olfactory tubercle,0.9946777535565804,0.005336460051670598
+KET,Suprageniculate nucleus,Cortical amygdalar area anterior part,0.9943033341626811,0.005712953725375011
+KET,Primary somatosensory area barrel field,Prelimbic area,0.9993259080567307,0.0006743192453973697
+KET,Primary somatosensory area barrel field,Anterolateral visual area,0.9979544604085533,0.002047634564945145
+KET,Primary somatosensory area barrel field,Retrosplenial area ventral part,0.9977298550187971,0.0022727256667474265
+KET,Primary somatosensory area barrel field,Perirhinal area,0.9972610593884664,0.002742698372461399
+KET,Primary somatosensory area barrel field,Zona incerta,0.9942749561758681,0.0057414947055846296
+KET,Accessory supraoptic group,fiber tracts,0.9999319131583903,0.00010000500033334732
+KET,Accessory supraoptic group,Lateral visual area,0.9980420856181316,0.0019598336017530977
+KET,Accessory supraoptic group,Entorhinal area lateral part,0.9973076476335635,0.0026959832656400368
+KET,Accessory supraoptic group,Parasubthalamic nucleus,0.9965919730440141,0.0034138475080136245
+KET,Accessory supraoptic group,Primary somatosensory area mouth,0.9963176214284957,0.0036891752178229613
+KET,Accessory supraoptic group,Bed nuclei of the stria terminalis,0.9953883226478225,0.004622343942727831
+KET,Septohippocampal nucleus,Periaqueductal gray,0.9944859740115652,0.005529284345570049
+KET,Primary somatosensory area lower limb,Parapyramidal nucleus,0.999247863945579,0.0007524190506532283
+KET,Primary somatosensory area lower limb,Retrosplenial area dorsal part,0.9973876315105642,0.0026157866783418637
+KET,Primary somatosensory area lower limb,Subceruleus nucleus,0.9954766845486219,0.004533576597339738
+KET,Subfornical organ,Central amygdalar nucleus,0.995792439500156,0.004216437190750145
+KET,Primary somatosensory area mouth,Parasubthalamic nucleus,0.9997846493953261,0.00021537379594495438
+KET,Primary somatosensory area mouth,Entorhinal area lateral part,0.9996124339016752,0.0003876412214758353
+KET,Primary somatosensory area mouth,Lingula (I),0.9992289087816604,0.0007713886620871296
+KET,Primary somatosensory area mouth,Dorsal peduncular area,0.9991395771204982,0.0008607932557363149
+KET,Primary somatosensory area mouth,fiber tracts,0.9971359286380751,0.002868180662403424
+KET,Primary somatosensory area mouth,Zona incerta,0.9951450043153237,0.004866819461338625
+KET,Subparaventricular zone,Ventral posterolateral nucleus of the thalamus,0.9945788339330793,0.00543591391217778
+KET,Subceruleus nucleus,Dorsomedial nucleus of the hypothalamus,0.9969250230272981,0.00307971442859775
+KET,Subceruleus nucleus,Supplemental somatosensory area,0.9963321487173707,0.0036745943425552812
+KET,Bed nuclei of the stria terminalis,Lateral visual area,0.9988709544440035,0.0011296834080848004
+KET,Bed nuclei of the stria terminalis,Central lateral nucleus of the thalamus,0.9982792345467495,0.001722247670732866
+KET,Bed nuclei of the stria terminalis,Parabrachial nucleus,0.9980697347342744,0.001932130628540181
+KET,Bed nuclei of the stria terminalis,Retrosplenial area lateral agranular part,0.9973047166458864,0.002698922170190726
+KET,Bed nuclei of the stria terminalis,fiber tracts,0.9958994825873486,0.004108947587454929
+KET,Bed nuclei of the stria terminalis,Spinal nucleus of the trigeminal oral part,0.9956018057752487,0.004407894734570855
+KET,Primary somatosensory area nose,Supraoptic nucleus,0.9978982681737664,0.0021039435640982877
+KET,Primary somatosensory area nose,Supplemental somatosensory area,0.9966221486492544,0.0033835691702132848
+KET,Primary somatosensory area nose,Dorsal auditory area,0.9955165598603091,0.0044935208997079635
+KET,Primary somatosensory area nose,Central lobule,0.9954527490835757,0.004557621111065857
+KET,Primary somatosensory area nose,Dentate gyrus,0.9947381166015011,0.005275775862060238
+KET,Primary somatosensory area nose,Nucleus of the lateral lemniscus,0.994308157389459,0.005708102876631191
+KET,Primary somatosensory area nose,Medial preoptic nucleus,0.9941730764162255,0.005843966339805755
+KET,Mediodorsal nucleus of thalamus,Diagonal band nucleus,0.9992368327332345,0.0007634586271512763
+KET,Mediodorsal nucleus of thalamus,Medial preoptic area,0.9975301242022533,0.0024729309726132798
+KET,Mediodorsal nucleus of thalamus,Medial geniculate complex,0.9961936036206048,0.0038136591419202386
+KET,Mediodorsal nucleus of thalamus,Subparafascicular area,0.9951593624794389,0.004852391352397091
+KET,Mediodorsal nucleus of thalamus,Declive (VI),0.9942785604840324,0.005737869650353207
+KET,Parasubthalamic nucleus,Entorhinal area lateral part,0.9999425432981699,0.00010000500033334732
+KET,Parasubthalamic nucleus,Lingula (I),0.9994791447225894,0.0005209909696400282
+KET,Parasubthalamic nucleus,Dorsal peduncular area,0.9984378218230487,0.0015633996495504961
+KET,Parasubthalamic nucleus,fiber tracts,0.9972432542811642,0.0027605525402169136
+KET,Parasubthalamic nucleus,Zona incerta,0.9944810283028026,0.005534257488670858
+KET,Primary somatosensory area upper limb,Postpiriform transition area,0.9978971437640126,0.0021050703426719075
+KET,Primary somatosensory area upper limb,Taenia tecta,0.994458368069238,0.0055570437370672425
+KET,Substantia nigra compact part,Central medial nucleus of the thalamus,0.9949389440275186,0.005073906492730559
+KET,Substantia nigra compact part,Piriform area,0.994271003482764,0.00574547016623211
+KET,Supplemental somatosensory area,Dentate gyrus,0.9948814118348701,0.005131733012089466
+KET,Primary visual area,Perirhinal area,0.9972117917305466,0.002792102562548191
+KET,Primary visual area,Anterolateral visual area,0.9963085428503131,0.00369828739184272
+KET,Supraoptic nucleus,Nucleus of the lateral lemniscus,0.9978570752927282,0.002145224055896957
+KET,Supraoptic nucleus,Medial preoptic nucleus,0.997395918750142,0.002607477767255483
+KET,Supraoptic nucleus,Central lobule,0.9945743009226475,0.0054404716411453205
+KET,Anteromedial visual area,Declive (VI),0.9995255890112263,0.0004745235572706852
+KET,Anteromedial visual area,Medial geniculate complex,0.9976068587807999,0.0023960093584695454
+KET,Anteromedial visual area,Diagonal band nucleus,0.996577622218842,0.0034282475121140774
+KET,Anteromedial visual area,Paragigantocellular reticular nucleus dorsal part,0.9950715727524269,0.004940611996056996
+KET,Medullary reticular nucleus,Medullary reticular nucleus ventral part,0.9997136952256997,0.000286345767336665
+KET,Superior olivary complex,Field CA2,0.9997804269543664,0.00021959715532405535
+KET,Superior olivary complex,Parasolitary nucleus,0.9984150684152532,0.0015861889175108725
+KET,Superior olivary complex,Ventromedial hypothalamic nucleus,0.9961319117322165,0.003875588668930417
+KET,Superior olivary complex,Edinger-Westphal nucleus,0.9951868821581591,0.00482473819526821
+KET,Anterolateral visual area,Perirhinal area,0.9999330930156383,0.00010000500033334732
+KET,Anterolateral visual area,Retrosplenial area ventral part,0.9993500230040997,0.0006501883225244942
+KET,Anterolateral visual area,Cortical amygdalar area anterior part,0.9967528729745144,0.0032524103827002537
+KET,Anterolateral visual area,Prelimbic area,0.9963369566916027,0.0036697686801119515
+KET,Medial amygdalar nucleus,Piriform-amygdalar area,0.9993231905908193,0.0006770385480636021
+KET,Medial amygdalar nucleus,Accessory facial motor nucleus,0.999302039748512,0.0006982039391405064
+KET,Medial amygdalar nucleus,Piriform area,0.997166572811641,0.0028374489418685066
+KET,Medial amygdalar nucleus,Paracentral nucleus,0.9949370000345092,0.0050758603763534525
+KET,Lateral visual area,fiber tracts,0.998050466917578,0.0019514358955085933
+KET,Lateral visual area,Retrosplenial area lateral agranular part,0.9971912441746277,0.002812707781804048
+KET,Lateral visual area,Central lateral nucleus of the thalamus,0.9964213199982891,0.0035850987954364174
+KET,Field CA2,Parasolitary nucleus,0.99703658561934,0.0029678139871102548
+KET,Field CA2,Ventromedial hypothalamic nucleus,0.9957275925734597,0.004281560238145937
+KET,Posterolateral visual area,Cortical amygdalar area posterior part,0.9987716291925778,0.001229125873239691
+KET,Posterolateral visual area,Temporal association areas,0.9972911987850049,0.0027124766558658127
+KET,Posterolateral visual area,Orbital area medial part,0.995576279459666,0.004433534144499486
+KET,Spinal nucleus of the trigeminal oral part,Parabrachial nucleus,0.9989980674613229,0.0010024348086048653
+KET,Spinal nucleus of the trigeminal oral part,Nucleus of the solitary tract,0.9951083425318387,0.004903660784627714
+KET,Spinal nucleus of the trigeminal oral part,Main olfactory bulb,0.9943903267302079,0.005625466578115554
+KET,Medial geniculate complex,Declive (VI),0.9992065986758818,0.0007937162335261382
+KET,Medial geniculate complex,Diagonal band nucleus,0.9975153686265548,0.0024877231923915552
+KET,Medial mammillary nucleus,Posterior complex of the thalamus,0.9993844519611428,0.0006157375663307877
+KET,Medial mammillary nucleus,Paragigantocellular reticular nucleus lateral part,0.9977156852095674,0.0022869278175395276
+KET,Subiculum,Parasubiculum,0.9988806534664426,0.001119973469771397
+KET,Subiculum,Parafascicular nucleus,0.997571630019883,0.0024313232525580092
+KET,Subiculum,Uvula (IX),0.9963256321331438,0.0036811349380248583
+KET,Subiculum,Ventromedial hypothalamic nucleus,0.9943402770710954,0.005675799850030195
+KET,Main olfactory bulb,Nucleus of the solitary tract,0.9980387616285141,0.0019631641177710545
+KET,Main olfactory bulb,Pontine gray,0.9970969477636497,0.0029072742656547574
+KET,Medial preoptic nucleus,Nucleus of the lateral lemniscus,0.9999510378606474,0.00010000500033334732
+KET,Medial preoptic area,Subparafascicular area,0.9993596864704238,0.0006405186178361081
+KET,posteromedial visual area,Ventromedial hypothalamic nucleus,0.9971417539829007,0.0028623386025173727
+KET,Central amygdalar nucleus,Parapyramidal nucleus,0.9954923295753885,0.004517860605120996
+KET,Temporal association areas,Cortical amygdalar area posterior part,0.999231018195081,0.0007692776230894198
+KET,Temporal association areas,Orbital area medial part,0.9959095972332048,0.004098791347121688
+KET,Temporal association areas,Interanteromedial nucleus of the thalamus,0.9957430513474411,0.004266035255109951
+KET,Medial septal nucleus,Motor nucleus of trigeminal,0.9987946177933256,0.0012061092641199801
+KET,Medial septal nucleus,Orbital area medial part,0.9966907993936946,0.0033146881201655885
+KET,Medial septal nucleus,Orbital area ventrolateral part,0.9961269808083949,0.003880538752315725
+KET,Postpiriform transition area,Dorsal nucleus raphe,0.9965289646071083,0.003477073412409692
+KET,Postpiriform transition area,Piriform-amygdalar area,0.9943554685832626,0.005660521985429021
+KET,Tegmental reticular nucleus,Ectorhinal area,0.9988545945242526,0.0011460619539363293
+KET,Tegmental reticular nucleus,Primary auditory area,0.9952540297571119,0.004757268120094135
+KET,Tegmental reticular nucleus,Ventral auditory area,0.9941918132596381,0.005825119855933079
+KET,Central lateral nucleus of the thalamus,Retrosplenial area lateral agranular part,0.9992334048538635,0.0007668891304498021
+KET,Central lateral nucleus of the thalamus,Parabrachial nucleus,0.9978428805520856,0.002159449381303452
+KET,Central lateral nucleus of the thalamus,Edinger-Westphal nucleus,0.9953065692733147,0.004704479457201211
+KET,Central lateral nucleus of the thalamus,Superior central nucleus raphe,0.9952148348124329,0.004796650745345607
+KET,Accessory facial motor nucleus,Paracentral nucleus,0.9976901618931902,0.0023125098979125363
+KET,Accessory facial motor nucleus,Piriform-amygdalar area,0.9974404451950845,0.002562836065555405
+KET,Accessory facial motor nucleus,Piriform area,0.9968168033244029,0.003188273823371062
+KET,Accessory facial motor nucleus,Nucleus of the trapezoid body,0.9950822204580536,0.004929911611329764
+KET,Taenia tecta,Ventral auditory area,0.9986077439551622,0.0013932261337977199
+KET,Taenia tecta,Primary auditory area,0.9947758435676198,0.0052378500501498605
+KET,Taenia tecta,Ectorhinal area,0.9942849835234626,0.005731409671289834
+KET,Diagonal band nucleus,Declive (VI),0.9970716830128974,0.0029326128958625515
+KET,Central medial nucleus of the thalamus,Dorsal tegmental nucleus,0.9991709761579938,0.0008293676723136831
+KET,Nucleus of the lateral olfactory tract,Posterior hypothalamic nucleus,-0.9981277288600567,0.0018740260303164887
+KET,Motor nucleus of trigeminal,Orbital area medial part,0.9994217805351158,0.0005783866982271753
+KET,Motor nucleus of trigeminal,Cortical amygdalar area posterior part,0.9958392413029596,0.004169438738914472
+KET,Cortical amygdalar area anterior part,Olfactory tubercle,0.9991748699493238,0.000825470657852824
+KET,Cortical amygdalar area anterior part,Retrosplenial area ventral part,0.9987612056346965,0.0012395623053219444
+KET,Cortical amygdalar area anterior part,Perirhinal area,0.9963845900523863,0.0036219613375652526
+KET,Nucleus of the trapezoid body,Paracentral nucleus,0.996412961028517,0.0035934878219116943
+KET,Cortical amygdalar area posterior part,Orbital area medial part,0.998201000091157,0.0018006200525628841
+KET,Nucleus of the solitary tract,Pontine gray,0.9952755409740324,0.004735654558318766
+KET,Nucleus of the solitary tract,Posterior auditory area,0.9946304707871015,0.005383996948074226
+KET,Abducens nucleus,Tuberomammillary nucleus dorsal part,0.9957292138814369,0.004279931974884639
+KET,Visceral area,Paragigantocellular reticular nucleus dorsal part,0.999492019566227,0.0005081094995439707
+KET,Visceral area,Presubiculum,0.9947994703282533,0.0052140994934661376
+KET,Visceral area,Declive (VI),0.9942963515849843,0.005719976333038983
+KET,Superior central nucleus raphe,Parabrachial nucleus,0.9960165743895483,0.003991380582636229
+KET,Superior central nucleus raphe,Posterior auditory area,0.9949729858108851,0.005039692130919473
+KET,Ventral medial nucleus of the thalamus,Parabigeminal nucleus,0.9985531453508941,0.0014479023540001034
+KET,Ventrolateral preoptic nucleus,Hypoglossal nucleus,-0.9948345080011948,0.005178879273740617
+KET,Ventromedial hypothalamic nucleus,Parasolitary nucleus,0.9959465922699939,0.004061645054142984
+KET,Dentate gyrus,Dorsal auditory area,0.9992736765358192,0.0007265873648606626
+KET,Dentate gyrus,Central lobule,0.996809890599537,0.0031952086471142096
+KET,Ventral posteromedial nucleus of the thalamus,Fasciola cinerea,0.9997734541015595,0.00022657156383889488
+KET,Ventral posteromedial nucleus of the thalamus,Folium-tuber vermis (VII),0.9946303980699521,0.005384070057791058
+KET,Ventral posteromedial nucleus of the thalamus,Presubiculum,0.9944347121287218,0.005580831783546838
+KET,Olfactory tubercle,Retrosplenial area ventral part,0.9969004976949422,0.0031043157110091884
+KET,Olfactory tubercle,Zona incerta,0.9961890072050266,0.003818273130772877
+KET,Olfactory tubercle,Lingula (I),0.9959550731628605,0.004053129681106491
+KET,Piriform-amygdalar area,Piriform area,0.99480815644795,0.005205368003317247
+KET,Piriform-amygdalar area,Dorsal nucleus raphe,0.9941469260503487,0.005870270320901251
+KET,Zona incerta,Dorsal peduncular area,0.9980811415191828,0.0019207018482368192
+KET,Zona incerta,Lingula (I),0.9969856503175801,0.0030189019848798184
+KET,Zona incerta,Retrosplenial area ventral part,0.9942970143250732,0.00571930979145207
+KET,Dorsal peduncular area,Lingula (I),0.9989457680075176,0.0010547880858981012
+KET,Dorsal peduncular area,Entorhinal area lateral part,0.9978219911449548,0.002180384165923618
+KET,Dorsomedial nucleus of the hypothalamus,Retrosplenial area dorsal part,0.9940571690038491,0.005960559891055401
+KET,Parasubiculum,Uvula (IX),0.998767930656428,0.001232828965007317
+KET,Parasubiculum,Parafascicular nucleus,0.9947579011656646,0.0052558868409338
+KET,Parasolitary nucleus,Culmen,0.9983896180340684,0.0016116800247371545
+KET,Parasolitary nucleus,Edinger-Westphal nucleus,0.9960379104105598,0.003969959460698929
+KET,Parasolitary nucleus,Primary motor area,0.9952776259099906,0.004733559727602461
+KET,Parabrachial nucleus,Retrosplenial area lateral agranular part,0.9947506302301455,0.005263196118983532
+KET,Retrosplenial area dorsal part,Parapyramidal nucleus,0.9982161158929259,0.0017854771231137175
+KET,Retrosplenial area ventral part,Perirhinal area,0.999000492580136,0.0010000072604958723
+KET,Retrosplenial area ventral part,Prelimbic area,0.99502019002427,0.004992250547735218
+KET,Retrosplenial area lateral agranular part,Edinger-Westphal nucleus,0.9973036951647242,0.002699946412499304
+KET,Paracentral nucleus,Medullary reticular nucleus dorsal part,0.9942557478532128,0.0057608138165412956
+KET,Lingula (I),Entorhinal area lateral part,0.9991351097672082,0.0008652644661452564
+KET,Lingula (I),fiber tracts,0.9943296152479936,0.005686522417051613
+KET,Entorhinal area lateral part,fiber tracts,0.9978370414389491,0.0021653011344549724
+KET,Central lobule,Dorsal auditory area,0.9991118088219371,0.000888585853562834
+KET,Perirhinal area,Prelimbic area,0.9957059409299871,0.0043033050195902135
+KET,Culmen,Primary motor area,0.9966984670897749,0.0033069949954866763
+KET,Parafascicular nucleus,Posterior auditory area,0.9940472053579814,0.00597058315341151
+KET,Declive (VI),Paragigantocellular reticular nucleus dorsal part,0.9954446290545756,0.00456577826581355
+KET,Folium-tuber vermis (VII),Ventral premammillary nucleus,0.9968970301339618,0.003107794059168374
+KET,Folium-tuber vermis (VII),Posterior limiting nucleus of the thalamus,0.9943039193358881,0.0057123651997061315
+KET,Nodulus (X),Median eminence,0.9974577348028046,0.002545502240807884
+KET,Paragigantocellular reticular nucleus dorsal part,Presubiculum,0.9971930288808083,0.002810918050301718
+KET,Edinger-Westphal nucleus,Primary motor area,0.9968083481303623,0.0031967560538790998
+KET,Paragigantocellular reticular nucleus lateral part,Posterior complex of the thalamus,0.9994502857966492,0.0005498653515982618
+KET,Fasciola cinerea,Presubiculum,0.996447674650379,0.003558649839521911
+KET,Fastigial nucleus,Paraflocculus,0.9995710807487825,0.00042901126339096483
+KET,Primary auditory area,Ventral auditory area,0.998652990010821,0.0013479180226461985
+KET,Ventral premammillary nucleus,Posterior limiting nucleus of the thalamus,0.9994600634233151,0.0005400823949291265
+KET,Paramedian lobule,Postsubiculum,0.994619686644122,0.005394839368208589
+SAL,Tuberomammillary nucleus ventral part,Piriform-amygdalar area,0.9999679372664929,0.00010000500033334732
+SAL,Tuberomammillary nucleus ventral part,fiber tracts,0.9998056814726994,0.0001943374095917483
+SAL,Tuberomammillary nucleus ventral part,Primary motor area,0.9991338578831115,0.0008665174347065331
+SAL,Tuberomammillary nucleus ventral part,Entorhinal area lateral part,0.9989323304022522,0.001068239962943349
+SAL,Tuberomammillary nucleus ventral part,Culmen,0.998073578747063,0.0019282791888537841
+SAL,Tuberomammillary nucleus ventral part,Uvula (IX),0.9971562302817868,0.002847820913585686
+SAL,Tuberomammillary nucleus ventral part,Piriform area,0.9950942809277856,0.004917791611195343
+SAL,Tuberomammillary nucleus ventral part,Dorsal premammillary nucleus,0.9944793359646671,0.005535959220053666
+SAL,Tuberomammillary nucleus ventral part,Flocculus,0.9943897345565047,0.005626062092636955
+SAL,Tuberomammillary nucleus ventral part,Lateral vestibular nucleus,0.9935135811688626,0.006507547059680749
+SAL,Tuberomammillary nucleus ventral part,Central amygdalar nucleus,0.993384041668609,0.006637940794061552
+SAL,Inferior colliculus,Parabrachial nucleus,0.9992255173308234,0.0007747827358199424
+SAL,Inferior colliculus,Superior olivary complex,0.9988257823505425,0.0011749075831427023
+SAL,Inferior colliculus,Primary somatosensory area mouth,0.9985460343901483,0.001455023643536405
+SAL,Inferior colliculus,Superior colliculus motor related,0.997738936295574,0.0022636237686706525
+SAL,Inferior colliculus,Olivary pretectal nucleus,0.9963202095098157,0.003686577574357752
+SAL,Inferior colliculus,posteromedial visual area,0.9954013048456264,0.004609301682888042
+SAL,Inferior colliculus,Parafascicular nucleus,0.9946186598567898,0.005395871710395312
+SAL,Inferior colliculus,Flocculus,0.994532426251115,0.005482575637845565
+SAL,Inferior colliculus,Ventrolateral preoptic nucleus,0.9939668421930318,0.006051430836648364
+SAL,Anterior amygdalar area,Lateral habenula,-0.9953601094931154,0.004650688211901694
+SAL,Periventricular hypothalamic nucleus anterior part,Paramedian lobule,0.9995840696280989,0.00041601689493080043
+SAL,Periventricular hypothalamic nucleus anterior part,Periaqueductal gray,0.9992347019862214,0.0007655910037961621
+SAL,Periventricular hypothalamic nucleus anterior part,Declive (VI),0.9990780780231132,0.0009223472083260809
+SAL,Periventricular hypothalamic nucleus anterior part,Cortical amygdalar area anterior part,0.9986499436197679,0.0013509685274061853
+SAL,Periventricular hypothalamic nucleus anterior part,Paragigantocellular reticular nucleus lateral part,0.998587128818496,0.001413870225115942
+SAL,Periventricular hypothalamic nucleus anterior part,Paragigantocellular reticular nucleus dorsal part,0.9980585185988754,0.0019433685190719092
+SAL,Periventricular hypothalamic nucleus anterior part,Posterior auditory area,0.9980341025584945,0.0019678323541899496
+SAL,Periventricular hypothalamic nucleus anterior part,Dentate gyrus,0.9977020266867535,0.0023006177058599226
+SAL,Periventricular hypothalamic nucleus anterior part,Dorsal cochlear nucleus,0.9975371345416564,0.0024659033003657455
+SAL,Periventricular hypothalamic nucleus anterior part,Paraventricular hypothalamic nucleus,0.9953370703835431,0.004673834986615766
+SAL,Periventricular hypothalamic nucleus anterior part,Dorsal motor nucleus of the vagus nerve,0.9936584120455908,0.0063617812402356035
+SAL,Periventricular hypothalamic nucleus anterior part,Agranular insular area dorsal part,0.9936429172637176,0.006377375032324433
+SAL,Paraventricular hypothalamic nucleus,Paragigantocellular reticular nucleus dorsal part,0.9992180284113729,0.0007822774878899339
+SAL,Paraventricular hypothalamic nucleus,Paragigantocellular reticular nucleus lateral part,0.9985611965852896,0.001439839486264899
+SAL,Paraventricular hypothalamic nucleus,Anterior cingulate area ventral part,0.9983164900856826,0.0016849286096152116
+SAL,Paraventricular hypothalamic nucleus,Paramedian lobule,0.9966217393120942,0.0033839798948241966
+SAL,Paraventricular hypothalamic nucleus,Declive (VI),0.9960238435181127,0.003984082408865156
+SAL,Anterior cingulate area dorsal part,Primary somatosensory area lower limb,0.9993720993273439,0.0006280978848408475
+SAL,Anterior cingulate area dorsal part,Primary somatosensory area barrel field,0.9983339335864565,0.0016674558456625807
+SAL,Anterior cingulate area dorsal part,Sublaterodorsal nucleus,0.9968292411379112,0.0031757963692683674
+SAL,Anterior cingulate area dorsal part,Nucleus accumbens,0.9941351390802069,0.00588212675751924
+SAL,Infralimbic area,Superior colliculus sensory related,0.9990952917491792,0.000905117746331611
+SAL,Infralimbic area,Spinal nucleus of the trigeminal oral part,0.998450664511994,0.0015505369493713287
+SAL,Anterior cingulate area ventral part,Paragigantocellular reticular nucleus lateral part,0.9953326219269778,0.004678304293183823
+SAL,Anterior cingulate area ventral part,Paragigantocellular reticular nucleus dorsal part,0.9952893415766292,0.004721788541975354
+SAL,Anterior cingulate area ventral part,Secondary motor area,0.994473335843869,0.00554199266758931
+SAL,Anterior cingulate area ventral part,Supplemental somatosensory area,0.99414368319949,0.0058735322694752155
+SAL,Nucleus accumbens,Lateral reticular nucleus,0.997875584006206,0.0021266757664833913
+SAL,Nucleus accumbens,Primary somatosensory area lower limb,0.9971225669555261,0.002881580813465761
+SAL,Nucleus accumbens,Linear nucleus of the medulla,0.9966318738201918,0.0033738110853651975
+SAL,Nucleus accumbens,Rostral linear nucleus raphe,0.9961856900006544,0.0038216030308934157
+SAL,Paraventricular hypothalamic nucleus descending division,Dorsal motor nucleus of the vagus nerve,0.9998957951885378,0.00010421024116079707
+SAL,Paraventricular hypothalamic nucleus descending division,Rhomboid nucleus,0.9998348986662923,0.00016511496443324627
+SAL,Paraventricular hypothalamic nucleus descending division,Dorsal cochlear nucleus,0.9984390155970034,0.0015622040085051215
+SAL,Paraventricular hypothalamic nucleus descending division,Primary somatosensory area nose,0.9981271342465831,0.00187462175933353
+SAL,Paraventricular hypothalamic nucleus descending division,Simple lobule,0.9975110892890514,0.002492013198157025
+SAL,Paraventricular hypothalamic nucleus descending division,Agranular insular area dorsal part,0.9962510118630246,0.003756033206434264
+SAL,Paraventricular hypothalamic nucleus descending division,Dentate gyrus,0.9960294727205555,0.003978430750451223
+SAL,Paraventricular hypothalamic nucleus descending division,Parapyramidal nucleus,0.9954609802698371,0.004549352358743691
+SAL,Paraventricular hypothalamic nucleus descending division,Posterior limiting nucleus of the thalamus,0.9948194936220024,0.005193971726177488
+SAL,Paraventricular hypothalamic nucleus descending division,Medullary reticular nucleus dorsal part,0.9947274487163784,0.005286500234785046
+SAL,Paraventricular hypothalamic nucleus descending division,Declive (VI),0.9943172877115108,0.005698920330893973
+SAL,Paraventricular hypothalamic nucleus descending division,Lateral hypothalamic area,0.9932709195168625,0.006751822825998573
+SAL,Paraventricular hypothalamic nucleus descending division,Paramedian lobule,0.9929681847655889,0.00705665496122857
+SAL,Lateral terminal nucleus of the accessory optic tract,Nucleus of Roller,0.9993666554903711,0.00063354515698661
+SAL,Lateral terminal nucleus of the accessory optic tract,Lateral preoptic area,0.997279666142688,0.0027240406895332244
+SAL,Lateral terminal nucleus of the accessory optic tract,Suprachiasmatic nucleus,0.9939152808194821,0.006103306521795222
+SAL,Anterodorsal preoptic nucleus,Retrosplenial area ventral part,0.9970491449594776,0.0029552173971591567
+SAL,Dorsal terminal nucleus of the accessory optic tract,Barrington's nucleus,-0.993583839758107,0.0064368322688166165
+SAL,Inferior olivary complex,Interposed nucleus,0.9945133863070084,0.005501720439827551
+SAL,Anterior hypothalamic nucleus,Dentate nucleus,0.9985020528325552,0.001499070211950674
+SAL,Interposed nucleus,Temporal association areas,0.997648456246561,0.0023543129745994926
+SAL,Dorsal cochlear nucleus,Dorsal motor nucleus of the vagus nerve,0.9990971932017423,0.0009032145737620112
+SAL,Dorsal cochlear nucleus,Declive (VI),0.9985203154070338,0.001480780407320018
+SAL,Dorsal cochlear nucleus,Dentate gyrus,0.9985008055857751,0.0015003193306235099
+SAL,Dorsal cochlear nucleus,Paramedian lobule,0.9979563169429132,0.002045774226917033
+SAL,Dorsal cochlear nucleus,Rhomboid nucleus,0.9976345320496273,0.002368270089470508
+SAL,Dorsal cochlear nucleus,Primary somatosensory area nose,0.9974007752938631,0.002602608555535235
+SAL,Dorsal cochlear nucleus,Periaqueductal gray,0.9973580385670383,0.0026454575722026446
+SAL,Dorsal cochlear nucleus,Posterior auditory area,0.9967307627973515,0.003274592834331226
+SAL,Dorsal cochlear nucleus,Agranular insular area dorsal part,0.9966909530888074,0.003314533914768096
+SAL,Dorsal cochlear nucleus,Paragigantocellular reticular nucleus lateral part,0.9959575634484823,0.0040506292846773945
+SAL,Dorsal cochlear nucleus,Simple lobule,0.9959213073033875,0.004087033250431754
+SAL,Dorsal cochlear nucleus,Cortical amygdalar area anterior part,0.9953770488534911,0.00463367003317819
+SAL,Interpeduncular nucleus,Lateral visual area,0.9998359613605255,0.00016405209528360637
+SAL,Interpeduncular nucleus,Pontine reticular nucleus,0.9991966839852193,0.000803638845992377
+SAL,Interpeduncular nucleus,Dorsal peduncular area,0.998894754650267,0.0011058565837917902
+SAL,Interpeduncular nucleus,Facial motor nucleus,0.998462114640437,0.0015390691190658586
+SAL,Interpeduncular nucleus,Locus ceruleus,0.9981446219132512,0.001857101432639954
+SAL,Interpeduncular nucleus,Ventral tegmental nucleus,0.9976994099902606,0.002303240432740563
+SAL,Interpeduncular nucleus,Parastrial nucleus,0.9973092817867953,0.0026943447021567524
+SAL,Interpeduncular nucleus,Median eminence,0.9967470686720886,0.0032582336107872603
+SAL,Interpeduncular nucleus,Periventricular hypothalamic nucleus posterior part,0.9964532695557442,0.003553035004141853
+SAL,Interpeduncular nucleus,Field CA2,0.995948554676556,0.004059674662714462
+SAL,Interpeduncular nucleus,Parasubthalamic nucleus,0.9951087615372496,0.004903239719599114
+SAL,Interpeduncular nucleus,Paraventricular nucleus of the thalamus,0.994197484791895,0.00581941520618224
+SAL,Interpeduncular nucleus,Intermediate reticular nucleus,0.9941526966990438,0.0058644657141618
+SAL,Agranular insular area dorsal part,Dentate gyrus,0.9989863475408789,0.0010141665522122262
+SAL,Agranular insular area dorsal part,Posterior auditory area,0.9978680673639113,0.002134208439619621
+SAL,Agranular insular area dorsal part,Paraflocculus,0.9973232617850571,0.0026803270844185014
+SAL,Agranular insular area dorsal part,Rhomboid nucleus,0.9967889929405013,0.003216173405079299
+SAL,Agranular insular area dorsal part,Periaqueductal gray,0.996624815517509,0.003380893266722529
+SAL,Agranular insular area dorsal part,Dorsal motor nucleus of the vagus nerve,0.9962637698029185,0.0037432273391839565
+SAL,Agranular insular area dorsal part,Medullary reticular nucleus dorsal part,0.9961548832831054,0.0038525281829126195
+SAL,Agranular insular area dorsal part,Cortical amygdalar area anterior part,0.9954863487305115,0.004523868549798862
+SAL,Agranular insular area dorsal part,Central lobule,0.9938170862749303,0.006202107090983778
+SAL,Agranular insular area dorsal part,Medial preoptic nucleus,0.9933426449755368,0.006679614058287093
+SAL,Inferior salivatory nucleus,Trochlear nucleus,-0.9996573554701087,0.0003427032459411047
+SAL,Inferior salivatory nucleus,Paracentral nucleus,0.9989508221279337,0.0010497286444423753
+SAL,Inferior salivatory nucleus,Lateral dorsal nucleus of thalamus,0.9986718653371915,0.0013290174153457962
+SAL,Inferior salivatory nucleus,Nucleus prepositus,0.9964708964182054,0.0035353455578873323
+SAL,Inferior salivatory nucleus,Lateral mammillary nucleus,0.9960632740538723,0.003944495248828884
+SAL,Inferior salivatory nucleus,Dorsal part of the lateral geniculate complex,0.9955066315101897,0.004503494013193014
+SAL,Inferior salivatory nucleus,Gustatory areas,0.9950731606973057,0.004939016187619426
+SAL,Inferior salivatory nucleus,Anteromedial nucleus,0.993545736959156,0.006475181855478817
+SAL,Inferior salivatory nucleus,Ventral part of the lateral geniculate complex,0.9933429289186596,0.006679328212226174
+SAL,Trochlear nucleus,Paracentral nucleus,-0.9995151088599683,0.00048500873775680285
+SAL,Trochlear nucleus,Lateral dorsal nucleus of thalamus,-0.997040925396466,0.002963461320674745
+SAL,Trochlear nucleus,Gustatory areas,-0.9957693713767735,0.004239603053097505
+SAL,Trochlear nucleus,Nucleus prepositus,-0.9950213892474341,0.00499104532350614
+SAL,Trochlear nucleus,Lateral mammillary nucleus,-0.9947206243964227,0.005293360750571255
+SAL,Trochlear nucleus,Dorsal part of the lateral geniculate complex,-0.9934701035998118,0.006551309441215115
+SAL,Trochlear nucleus,Ventral tegmental area,0.9934108364050934,0.006610967967846121
+SAL,Periventricular hypothalamic nucleus intermediate part,Zona incerta,0.9996918524847455,0.0003081950024557468
+SAL,Agranular insular area ventral part,Perirhinal area,0.9983793425200712,0.001621972165891509
+SAL,Agranular insular area ventral part,Postsubiculum,0.9951075481255893,0.004904459096261208
+SAL,Agranular insular area ventral part,Ectorhinal area,0.9942586578140267,0.0057578870478887005
+SAL,Periventricular hypothalamic nucleus posterior part,Parasubthalamic nucleus,0.9995184038858247,0.0004817121188303258
+SAL,Periventricular hypothalamic nucleus posterior part,Locus ceruleus,0.9992948624008052,0.000705386325642791
+SAL,Periventricular hypothalamic nucleus posterior part,Dorsal peduncular area,0.9992528795807499,0.0007473996527998865
+SAL,Periventricular hypothalamic nucleus posterior part,Ventral tegmental nucleus,0.9991663866755868,0.0008339609732170931
+SAL,Periventricular hypothalamic nucleus posterior part,Pontine reticular nucleus,0.9987601991981087,0.0012405699907318852
+SAL,Periventricular hypothalamic nucleus posterior part,Paraventricular nucleus of the thalamus,0.9987181475046231,0.0012826747710527507
+SAL,Periventricular hypothalamic nucleus posterior part,Field CA2,0.9970742494463981,0.002930038928271771
+SAL,Periventricular hypothalamic nucleus posterior part,Median eminence,0.9968729232112985,0.0031319763101086387
+SAL,Periventricular hypothalamic nucleus posterior part,Anteromedial nucleus,0.9964990387279254,0.0035071039780966737
+SAL,Periventricular hypothalamic nucleus posterior part,Lateral visual area,0.9962163779011914,0.00379079810348054
+SAL,Periventricular hypothalamic nucleus posterior part,Nucleus prepositus,0.9946281096628334,0.005386370821728771
+SAL,Periventricular hypothalamic nucleus posterior part,Lateral mammillary nucleus,0.9944112769361811,0.005604398407277989
+SAL,Periventricular hypothalamic nucleus posterior part,Facial motor nucleus,0.9942337111812697,0.005782978049641849
+SAL,Periventricular hypothalamic nucleus posterior part,Intermediate reticular nucleus,0.9929430815994968,0.007081936217766623
+SAL,Anteromedial nucleus,Lateral mammillary nucleus,0.9996483287345782,0.00035173311626245584
+SAL,Anteromedial nucleus,Nucleus prepositus,0.9995604691332842,0.00043962748872044687
+SAL,Anteromedial nucleus,Parasubthalamic nucleus,0.9964317506746481,0.0035746307117502
+SAL,Anteromedial nucleus,Preparasubthalamic nucleus,0.9960921719523326,0.003915483558480886
+SAL,Anteromedial nucleus,Paraventricular nucleus of the thalamus,0.995450235585792,0.004560146093752648
+SAL,Anteromedial nucleus,Gustatory areas,0.9952104270161387,0.0048010797448953205
+SAL,Anteromedial nucleus,Lateral dorsal nucleus of thalamus,0.9936027724946626,0.006417777453894508
+SAL,Anteromedial nucleus,Ventral tegmental nucleus,0.9931567561054654,0.006866766262322845
+SAL,Anteromedial nucleus,Locus ceruleus,0.9930930955990395,0.006930867469321642
+SAL,Midbrain reticular nucleus,Postpiriform transition area,0.9996387991540595,0.00036126609467845025
+SAL,Midbrain reticular nucleus,Nucleus of the solitary tract,0.9989018536029127,0.0010987498016334601
+SAL,Midbrain reticular nucleus,Medial septal nucleus,0.9988156993908891,0.001185002447256888
+SAL,Midbrain reticular nucleus,Uvula (IX),0.9980625882576629,0.0019392909520610233
+SAL,Midbrain reticular nucleus,Bed nuclei of the stria terminalis,0.997393275045156,0.002610128378151374
+SAL,Midbrain reticular nucleus,Flocculus,0.9969586323600594,0.003046001997409821
+SAL,Midbrain reticular nucleus,Medial amygdalar nucleus,0.9947682379657634,0.005245495622748176
+SAL,Midbrain reticular nucleus,Parafascicular nucleus,0.9932005689261945,0.006822652526909727
+SAL,Intermediate reticular nucleus,Nucleus of reuniens,0.9982959273767894,0.0017055262065389337
+SAL,Intermediate reticular nucleus,Facial motor nucleus,0.9981245196878507,0.001877241227402352
+SAL,Intermediate reticular nucleus,Nucleus raphe magnus,0.9968108129819254,0.003194283313236194
+SAL,Intermediate reticular nucleus,Dorsal peduncular area,0.995140186357513,0.0048716609361516795
+SAL,Pontine reticular nucleus,Locus ceruleus,0.9997825744328112,0.00021744920755422046
+SAL,Pontine reticular nucleus,Dorsal peduncular area,0.9996834431536538,0.00031660696104110193
+SAL,Pontine reticular nucleus,Ventral tegmental nucleus,0.9996007940507542,0.0003992856531536519
+SAL,Pontine reticular nucleus,Lateral visual area,0.9992821726710086,0.0007180850903880156
+SAL,Pontine reticular nucleus,Median eminence,0.9986090623911567,0.0013919058605151183
+SAL,Pontine reticular nucleus,Field CA2,0.9982958376333002,0.0017056161032226408
+SAL,Pontine reticular nucleus,Parasubthalamic nucleus,0.9982491767338896,0.0017523577484982098
+SAL,Pontine reticular nucleus,Paraventricular nucleus of the thalamus,0.9976969900678668,0.002305665938162678
+SAL,Pontine reticular nucleus,Facial motor nucleus,0.996504905662995,0.0035012164482841296
+SAL,Pontine reticular nucleus,Parastrial nucleus,0.9935712310361934,0.006449522493247661
+SAL,Locus ceruleus,Ventral tegmental nucleus,0.999960766736667,0.00010000500033334732
+SAL,Locus ceruleus,Dorsal peduncular area,0.9994352988079809,0.000564860695788063
+SAL,Locus ceruleus,Parasubthalamic nucleus,0.999238755994505,0.0007615338988420459
+SAL,Locus ceruleus,Median eminence,0.9989851088870672,0.0010154064636311373
+SAL,Locus ceruleus,Field CA2,0.9989226615851146,0.0010779191610597804
+SAL,Locus ceruleus,Paraventricular nucleus of the thalamus,0.9988901835037111,0.0011104327986472039
+SAL,Locus ceruleus,Lateral visual area,0.9983755283370476,0.001625792547731379
+SAL,Locus ceruleus,Facial motor nucleus,0.9948108551672793,0.005202655203214727
+SAL,Paraventricular nucleus of the thalamus,Parasubthalamic nucleus,0.999799125546347,0.00020089463162829187
+SAL,Paraventricular nucleus of the thalamus,Ventral tegmental nucleus,0.9992005505479121,0.0007997691822178388
+SAL,Paraventricular nucleus of the thalamus,Field CA2,0.9989541920382482,0.001046355200469239
+SAL,Paraventricular nucleus of the thalamus,Median eminence,0.9984659497466575,0.0015352281131839904
+SAL,Paraventricular nucleus of the thalamus,Dorsal peduncular area,0.9971495015213382,0.0028545688864178615
+SAL,Paraventricular nucleus of the thalamus,Edinger-Westphal nucleus,0.996367043575358,0.003639571637547144
+SAL,Paraventricular nucleus of the thalamus,Preparasubthalamic nucleus,0.9957650174046752,0.0042439755330534994
+SAL,Paraventricular nucleus of the thalamus,Lateral visual area,0.9948421699212925,0.005171177600214695
+SAL,Paraventricular nucleus of the thalamus,Lateral septal nucleus caudal (caudodorsal) part,0.9930041466693685,0.007020439045010259
+SAL,Accessory olfactory bulb,Submedial nucleus of the thalamus,0.9976001710332404,0.0024027131716173647
+SAL,Accessory olfactory bulb,Ventral tegmental area,-0.9974588484439999,0.0025443857618487
+SAL,Accessory olfactory bulb,Cuneate nucleus,0.9971716176287223,0.002832389802846355
+SAL,Accessory olfactory bulb,Nucleus x,0.9951857625619099,0.004825863206960996
+SAL,Accessory olfactory bulb,Gustatory areas,0.9939195390063217,0.006099022275642458
+SAL,Lateral dorsal nucleus of thalamus,Dorsal part of the lateral geniculate complex,0.998422060364239,0.0015791858936938096
+SAL,Lateral dorsal nucleus of thalamus,Nucleus raphe magnus,0.9975932878930835,0.0024096128936729644
+SAL,Lateral dorsal nucleus of thalamus,Paracentral nucleus,0.9963737644205035,0.0036328263095861935
+SAL,Lateral dorsal nucleus of thalamus,Nucleus prepositus,0.9961312515529871,0.003876251411926986
+SAL,Lateral dorsal nucleus of thalamus,Nucleus of reuniens,0.9959491112420839,0.00405911583327517
+SAL,Lateral dorsal nucleus of thalamus,Lateral mammillary nucleus,0.9954098431534524,0.0046007239653736275
+SAL,Lateral dorsal nucleus of thalamus,Ventral part of the lateral geniculate complex,0.9942132295691004,0.00580357866185861
+SAL,Anterior olfactory nucleus,Ventral premammillary nucleus,0.9998759300436776,0.00012407765363612233
+SAL,Anterior olfactory nucleus,Secondary motor area,0.9995142751558954,0.000485842846629394
+SAL,Anterior olfactory nucleus,Supplemental somatosensory area,0.999307062489663,0.000693177702498853
+SAL,Anterior olfactory nucleus,Prelimbic area,0.9991832250735881,0.0008171086687927108
+SAL,Anterior olfactory nucleus,Nucleus of the trapezoid body,0.9988280069157669,0.001172680405203946
+SAL,Anterior olfactory nucleus,Medial pretectal area,0.9983228349474806,0.001678573068362928
+SAL,Anterior olfactory nucleus,Lateral hypothalamic area,0.9949649061343702,0.0050478126622664045
+SAL,Anterior olfactory nucleus,Simple lobule,0.9948151281136266,0.005198359977495704
+SAL,Anterior olfactory nucleus,Primary somatosensory area nose,0.9945374693706942,0.005477504805905196
+SAL,Nucleus prepositus,Lateral mammillary nucleus,0.9999636094388609,0.00010000500033334732
+SAL,Nucleus prepositus,Gustatory areas,0.9964714520490547,0.0035347879593699864
+SAL,Nucleus prepositus,Parasubthalamic nucleus,0.9939047686103452,0.006113883142289679
+SAL,Nucleus prepositus,Preparasubthalamic nucleus,0.9935737452921715,0.006446991972316342
+SAL,Dorsal part of the lateral geniculate complex,Nucleus raphe magnus,0.9985753913370584,0.0014256243826461855
+SAL,Dorsal part of the lateral geniculate complex,Ventral part of the lateral geniculate complex,0.9973988484835886,0.0026045403889399317
+SAL,Dorsal part of the lateral geniculate complex,Nucleus of reuniens,0.9971480576749536,0.0028560168612979447
+SAL,Dorsal part of the lateral geniculate complex,Paracentral nucleus,0.9942885396516384,0.005727833109363027
+SAL,Retrochiasmatic area,Posterior hypothalamic nucleus,-0.9973451293144615,0.00265840110463879
+SAL,Retrochiasmatic area,Bed nucleus of the accessory olfactory tract,-0.9954634686786817,0.004546852606584875
+SAL,Nucleus of Roller,Lateral preoptic area,0.9983548063723232,0.0016465484448747129
+SAL,Ventral part of the lateral geniculate complex,Paracentral nucleus,0.9954276602611901,0.004582824857377465
+SAL,Nucleus of reuniens,Nucleus raphe magnus,0.9997297732471148,0.00027026327071310365
+SAL,Nucleus of reuniens,Facial motor nucleus,0.9929437981517685,0.0070812145731664845
+SAL,Frontal pole cerebral cortex,Magnocellular nucleus,0.9997290467096344,0.0002709900048405069
+SAL,Lateral habenula,Superior central nucleus raphe,0.9979805771469535,0.002021464636655568
+SAL,Rhomboid nucleus,Dorsal motor nucleus of the vagus nerve,0.9995080131751595,0.0004921078900683971
+SAL,Rhomboid nucleus,Primary somatosensory area nose,0.9969547578345093,0.003049888350316855
+SAL,Rhomboid nucleus,Medullary reticular nucleus dorsal part,0.996403785056674,0.0036026968692172254
+SAL,Rhomboid nucleus,Simple lobule,0.9963584184989551,0.003648228200196716
+SAL,Rhomboid nucleus,Parapyramidal nucleus,0.9959362211415131,0.004072058446347641
+SAL,Rhomboid nucleus,Dentate gyrus,0.9957764855793726,0.004232458650597994
+SAL,Rhomboid nucleus,Submedial nucleus of the thalamus,0.9942692420149888,0.005747241785166336
+SAL,Rhomboid nucleus,Posterior limiting nucleus of the thalamus,0.9941779749146973,0.005839039143002685
+SAL,Lateral hypothalamic area,Posterior limiting nucleus of the thalamus,0.9992895622900227,0.0007106901904353053
+SAL,Lateral hypothalamic area,Simple lobule,0.9986091310243713,0.0013918371317053234
+SAL,Lateral hypothalamic area,Nucleus of the trapezoid body,0.9984138437786777,0.0015874154988849728
+SAL,Lateral hypothalamic area,Prelimbic area,0.9981879535948321,0.0018136901472465164
+SAL,Lateral hypothalamic area,Primary somatosensory area nose,0.9974490995866061,0.0025541595034426425
+SAL,Lateral hypothalamic area,Ventral premammillary nucleus,0.9960935316790239,0.003914118498297114
+SAL,Lateral hypothalamic area,Parapyramidal nucleus,0.9950544714294236,0.004957798166806001
+SAL,Lateral hypothalamic area,Supplemental somatosensory area,0.993981085794733,0.0060371008821249825
+SAL,Lateral hypothalamic area,Secondary motor area,0.993433312255366,0.006588343294150694
+SAL,Lateral hypothalamic area,Dorsal motor nucleus of the vagus nerve,0.9932136349632965,0.0068094971265137225
+SAL,Rostral linear nucleus raphe,Lateral reticular nucleus,0.9984644539950462,0.0015367261640008175
+SAL,Rostral linear nucleus raphe,Linear nucleus of the medulla,0.9971261752538662,0.002877962109074839
+SAL,Rostral linear nucleus raphe,Copula pyramidis,0.9938421344865334,0.006176903362555093
+SAL,Medial vestibular nucleus,Orbital area medial part,0.994306093361013,0.005710178722608014
+SAL,Medial vestibular nucleus,Motor nucleus of trigeminal,0.9937848349652677,0.00623455957487478
+SAL,Linear nucleus of the medulla,Lateral reticular nucleus,0.9997042032169203,0.00029584053957701183
+SAL,Area postrema,Subiculum,0.9975937673393991,0.002409132290799885
+SAL,Area postrema,Hypoglossal nucleus,-0.9960560311808494,0.003951766774187726
+SAL,Lateral vestibular nucleus,Piriform area,0.99984543519272,0.00015457675365087724
+SAL,Lateral vestibular nucleus,Entorhinal area lateral part,0.9974327240424491,0.0025705770615790818
+SAL,Lateral vestibular nucleus,Olivary pretectal nucleus,0.9950312492377053,0.004981136047660321
+SAL,Lateral vestibular nucleus,Medial preoptic nucleus,0.9946333703423704,0.005381081743756992
+SAL,Lateral mammillary nucleus,Gustatory areas,0.996907432971624,0.0030973588957862305
+SAL,Lateral mammillary nucleus,Preparasubthalamic nucleus,0.994353740665402,0.0056622597134513356
+SAL,Lateral mammillary nucleus,Parasubthalamic nucleus,0.9939423377118213,0.006076084358508866
+SAL,Red nucleus,Nucleus y,-0.9971332223535175,0.0028708947238993052
+SAL,Red nucleus,Field CA3,0.9956323895448606,0.004377176329185761
+SAL,Superior vestibular nucleus,Mediodorsal nucleus of thalamus,0.9986643189450799,0.0013365738719614295
+SAL,Superior vestibular nucleus,Subiculum,0.9953626023591718,0.004648183728437846
+SAL,Lateral posterior nucleus of the thalamus,Central lateral nucleus of the thalamus,0.9985143816087841,0.0014867230163878834
+SAL,Lateral septal nucleus caudal (caudodorsal) part,Preparasubthalamic nucleus,0.999180662140148,0.0008196737005735013
+SAL,Lateral septal nucleus caudal (caudodorsal) part,Edinger-Westphal nucleus,0.9985356710906688,0.0014654020866929542
+SAL,Lateral septal nucleus caudal (caudodorsal) part,Central lobule,0.9984155468537818,0.0015857097196010305
+SAL,Lateral septal nucleus caudal (caudodorsal) part,Paraflocculus,0.9971134156280025,0.002890758591425487
+SAL,Lateral septal nucleus caudal (caudodorsal) part,Medullary reticular nucleus dorsal part,0.9949275723900569,0.005085336040761021
+SAL,Lateral septal nucleus caudal (caudodorsal) part,Medial preoptic nucleus,0.9943116220418718,0.005704618397145778
+SAL,Lateral septal nucleus rostral (rostroventral) part,Retrosplenial area dorsal part,0.9969463493387908,0.003058322565723307
+SAL,Lateral septal nucleus rostral (rostroventral) part,Accessory facial motor nucleus,0.9941864707756963,0.005830493565739409
+SAL,Anteroventral periventricular nucleus,Basomedial amygdalar nucleus,-0.995409736739629,0.004600830869911331
+SAL,Bed nucleus of the anterior commissure,Ventral posterolateral nucleus of the thalamus,0.9974216411479386,0.0025816885439047775
+SAL,Bed nucleus of the anterior commissure,Lingula (I),0.9972953548392129,0.002708309321838158
+SAL,Bed nucleus of the anterior commissure,Retrosplenial area lateral agranular part,0.9932742530624685,0.006748466702360394
+SAL,Bed nucleus of the accessory olfactory tract,Medial mammillary nucleus,-0.9984059001028278,0.001595371826314395
+SAL,Bed nucleus of the accessory olfactory tract,Posterior hypothalamic nucleus,0.9952585628869673,0.004752713383919897
+SAL,Superior colliculus motor related,posteromedial visual area,0.9995598330018216,0.00044026390010793316
+SAL,Superior colliculus motor related,Ventrolateral preoptic nucleus,0.9980847111712168,0.0019171253397726993
+SAL,Superior colliculus motor related,Olivary pretectal nucleus,0.9949663933456798,0.005046317925930484
+SAL,Superior colliculus motor related,Superior olivary complex,0.9946780896211774,0.005336122188941623
+SAL,Superior colliculus motor related,Parabrachial nucleus,0.9946438888675662,0.005370506520874275
+SAL,Superior colliculus motor related,Primary somatosensory area mouth,0.9931778915923105,0.006845485370031689
+SAL,Basolateral amygdalar nucleus,Orbital area ventrolateral part,0.99819839605412,0.0018032287861079164
+SAL,Basolateral amygdalar nucleus,Central medial nucleus of the thalamus,0.9968046737774205,0.003200442178419241
+SAL,Superior colliculus sensory related,Spinal nucleus of the trigeminal oral part,0.9999045711685721,0.00010000500033334732
+SAL,Superior colliculus sensory related,Dorsomedial nucleus of the hypothalamus,0.9964897984426705,0.003516376769878224
+SAL,Primary somatosensory area barrel field,Primary somatosensory area lower limb,0.997092489784276,0.0029117452344501193
+SAL,Primary somatosensory area barrel field,Taenia tecta,0.9964517330541117,0.0035545769759171963
+SAL,Primary somatosensory area barrel field,Sublaterodorsal nucleus,0.9948661653977912,0.005147058008338945
+SAL,Primary somatosensory area barrel field,Copula pyramidis,0.9947013119328098,0.005312775901536379
+SAL,Accessory supraoptic group,Ventral tegmental area,-0.9963936422462272,0.0036128763388492014
+SAL,Accessory supraoptic group,Nucleus x,0.995066973579968,0.004945233958148387
+SAL,Primary somatosensory area lower limb,Sublaterodorsal nucleus,0.9935760553644878,0.00644466696157426
+SAL,Subfornical organ,Parasolitary nucleus,0.9994267903373104,0.0005733740101549936
+SAL,Subfornical organ,Taenia tecta,0.9969646106836583,0.003040005454042661
+SAL,Subfornical organ,Copula pyramidis,0.9958940070882986,0.0041144456464439275
+SAL,Subfornical organ,Medial geniculate complex,0.9950181073582144,0.004994343639168035
+SAL,Primary somatosensory area mouth,Superior olivary complex,0.999765112001607,0.000234915588899428
+SAL,Primary somatosensory area mouth,Parabrachial nucleus,0.9988514317365792,0.0011492283734513668
+SAL,Primary somatosensory area mouth,Parafascicular nucleus,0.998387048544543,0.0016142536621083158
+SAL,Primary somatosensory area mouth,Medial septal nucleus,0.9974145391251478,0.0025888089509448374
+SAL,Primary somatosensory area mouth,Nucleus of the solitary tract,0.9973701191687397,0.002633345042828921
+SAL,Primary somatosensory area mouth,Flocculus,0.9971702992266365,0.002833711945328238
+SAL,Primary somatosensory area mouth,Postpiriform transition area,0.9935510308453629,0.006469853593370365
+SAL,Subceruleus nucleus,Primary visual area,0.9978041936510117,0.002198220666646264
+SAL,Bed nuclei of the stria terminalis,Uvula (IX),0.9977328454442356,0.002269728441654914
+SAL,Bed nuclei of the stria terminalis,Postpiriform transition area,0.9956967561804054,0.004312529421661239
+SAL,Bed nuclei of the stria terminalis,Central amygdalar nucleus,0.995458408353631,0.004551936005495855
+SAL,Bed nuclei of the stria terminalis,fiber tracts,0.9943436812851022,0.005672376265309761
+SAL,Bed nuclei of the stria terminalis,Nucleus of the solitary tract,0.9934040647761283,0.0066177845353694665
+SAL,Primary somatosensory area nose,Simple lobule,0.9998176294302283,0.00018238720130611997
+SAL,Primary somatosensory area nose,Dorsal motor nucleus of the vagus nerve,0.9985056482300807,0.0014954694271128682
+SAL,Primary somatosensory area nose,Posterior limiting nucleus of the thalamus,0.9969498783989394,0.0030547827023145943
+SAL,Primary somatosensory area nose,Prelimbic area,0.9966759983797742,0.003329538386496189
+SAL,Primary somatosensory area nose,Supplemental somatosensory area,0.9961469423659514,0.003860499783452125
+SAL,Primary somatosensory area nose,Ventral premammillary nucleus,0.9960555848188145,0.0039522149037315765
+SAL,Primary somatosensory area nose,Nucleus of the trapezoid body,0.9959934726869802,0.004014574946141543
+SAL,Primary somatosensory area nose,Declive (VI),0.9955766938455666,0.00443311791741282
+SAL,Primary somatosensory area nose,Secondary motor area,0.9952301604661986,0.0047812515217525164
+SAL,Primary somatosensory area nose,Parapyramidal nucleus,0.9939291232703522,0.0060893794248435195
+SAL,Primary somatosensory area nose,Paramedian lobule,0.9938981236001129,0.006120568926135101
+SAL,Preparasubthalamic nucleus,Edinger-Westphal nucleus,0.9979980270457018,0.0020039795807415507
+SAL,Preparasubthalamic nucleus,Central lobule,0.997299348424775,0.002704304913769197
+SAL,Preparasubthalamic nucleus,Parasubthalamic nucleus,0.9949924565243973,0.005020123234798411
+SAL,Preparasubthalamic nucleus,Paraflocculus,0.9932757841449188,0.006746925253696538
+SAL,Mediodorsal nucleus of thalamus,Subiculum,0.9982924640019942,0.0017089954992686065
+SAL,Parasubthalamic nucleus,Ventral tegmental nucleus,0.9993837633984907,0.000616426553324704
+SAL,Parasubthalamic nucleus,Field CA2,0.9983747946089168,0.0016265274699921912
+SAL,Parasubthalamic nucleus,Dorsal peduncular area,0.99815542779461,0.001846275523618403
+SAL,Parasubthalamic nucleus,Median eminence,0.9979629379698657,0.0020391396629824373
+SAL,Parasubthalamic nucleus,Lateral visual area,0.9953929193847233,0.004617725919608323
+SAL,Parasubthalamic nucleus,Edinger-Westphal nucleus,0.9946924331515838,0.005321702019101497
+SAL,Submedial nucleus of the thalamus,Medullary reticular nucleus dorsal part,0.9984178017307759,0.0015834512667404323
+SAL,Submedial nucleus of the thalamus,Central lobule,0.9964883452238507,0.0035178351088213317
+SAL,Submedial nucleus of the thalamus,Parapyramidal nucleus,0.9952640734765568,0.004747176557069738
+SAL,Primary somatosensory area upper limb,Tuberal nucleus,0.995631461423716,0.004378108522218999
+SAL,Primary somatosensory area upper limb,Nucleus of the lateral olfactory tract,0.9936587547270747,0.006361436371797304
+SAL,Substantia nigra compact part,Medial geniculate complex,-0.9979707942671802,0.002031267360222451
+SAL,Supplemental somatosensory area,Secondary motor area,0.9999416661315368,0.00010000500033334732
+SAL,Supplemental somatosensory area,Ventral premammillary nucleus,0.9995023911209192,0.0004977327274661359
+SAL,Supplemental somatosensory area,Prelimbic area,0.9982469902821839,0.0017545480374071604
+SAL,Supplemental somatosensory area,Nucleus of the trapezoid body,0.9974474496154486,0.002555813695644379
+SAL,Supplemental somatosensory area,Medial pretectal area,0.9961106687539835,0.0038969143633432405
+SAL,Supplemental somatosensory area,Simple lobule,0.995770014703072,0.004238956993769668
+SAL,Supplemental somatosensory area,Declive (VI),0.9948884615654447,0.005124647036300095
+SAL,Supplemental somatosensory area,Paragigantocellular reticular nucleus lateral part,0.994845717107652,0.00516761202957152
+SAL,Supplemental somatosensory area,Paramedian lobule,0.9934671584400154,0.006554273963399729
+SAL,Medullary reticular nucleus,Medullary reticular nucleus ventral part,0.9999973686955128,0.00010000500033334732
+SAL,Medullary reticular nucleus,Fundus of striatum,0.9965985867476385,0.003407211209650833
+SAL,Medullary reticular nucleus,Parastrial nucleus,0.9949440463220287,0.00506877825701532
+SAL,Medullary reticular nucleus,Ansiform lobule,0.9949220316516967,0.005090905042909718
+SAL,Medullary reticular nucleus,Fasciola cinerea,0.9948094832163709,0.00520403431146163
+SAL,Superior olivary complex,Parafascicular nucleus,0.9984644086115835,0.0015367716172601854
+SAL,Superior olivary complex,Parabrachial nucleus,0.9982807413419974,0.0017207382793135203
+SAL,Superior olivary complex,Medial septal nucleus,0.9959603141243497,0.004047867448059143
+SAL,Superior olivary complex,Nucleus of the solitary tract,0.9957395205174336,0.004269581186224154
+SAL,Superior olivary complex,Flocculus,0.9953271584508269,0.004683793404085449
+SAL,Anterolateral visual area,Dentate nucleus,0.99551703702288,0.004493041588287355
+SAL,Medial amygdalar nucleus,Pontine gray,0.998396176667411,0.0016051108340308083
+SAL,Medial amygdalar nucleus,Postpiriform transition area,0.9970152482251875,0.0029892150297423613
+SAL,Medial amygdalar nucleus,Medial septal nucleus,0.9945311726714129,0.005483836110062576
+SAL,Medial amygdalar nucleus,Parafascicular nucleus,0.9935178549766387,0.006503245358461145
+SAL,Medial amygdalar nucleus,Nucleus of the solitary tract,0.9931844494762347,0.006838882462003614
+SAL,Lateral visual area,Dorsal peduncular area,0.9985500734537447,0.0014509787069101675
+SAL,Lateral visual area,Ventral tegmental nucleus,0.9980721225070635,0.0019297382406641523
+SAL,Lateral visual area,Median eminence,0.9977729151798683,0.0022295684617352307
+SAL,Lateral visual area,Facial motor nucleus,0.9973134523569146,0.0026901628886760675
+SAL,Lateral visual area,Field CA2,0.997018950349193,0.002985501829629627
+SAL,Lateral visual area,Parastrial nucleus,0.9967211698345902,0.0032842173079433595
+SAL,Lateral visual area,Ansiform lobule,0.9943824308920294,0.005633406990762787
+SAL,Field CA2,Median eminence,0.9999249096848616,0.00010000500033334732
+SAL,Field CA2,Ventral tegmental nucleus,0.9992545847157144,0.0007456932443977065
+SAL,Field CA2,Dorsal peduncular area,0.996864102952637,0.0031408242760597696
+SAL,Field CA2,Edinger-Westphal nucleus,0.9949288948946412,0.005084006794550519
+SAL,Posterolateral visual area,Nucleus of the lateral lemniscus,0.9933006698985283,0.00672187134393119
+SAL,Spinal nucleus of the trigeminal oral part,Dorsomedial nucleus of the hypothalamus,0.9975461415879147,0.0024568740569591093
+SAL,Field CA3,Nucleus y,-0.9942392327053149,0.005777424517659235
+SAL,Medial geniculate complex,Parasolitary nucleus,0.9961614912642944,0.003845894717190554
+SAL,Medial geniculate complex,Abducens nucleus,0.9938621159719684,0.006156798273549933
+SAL,Main olfactory bulb,Abducens nucleus,0.9996084614823841,0.0003916151888350622
+SAL,Main olfactory bulb,Parasubiculum,0.9971060694312776,0.0028981260820954
+SAL,Main olfactory bulb,Parvicellular reticular nucleus,0.9968701128122975,0.0031347955289850794
+SAL,Main olfactory bulb,Medial preoptic area,0.9954756878625198,0.004534577812753934
+SAL,Medial preoptic nucleus,Paraflocculus,0.9986266353899915,0.0013743085395230635
+SAL,Medial preoptic nucleus,Edinger-Westphal nucleus,0.9957832203685504,0.004225695319167157
+SAL,Medial preoptic nucleus,Entorhinal area lateral part,0.9943658316351203,0.005650100161258286
+SAL,Medial preoptic nucleus,Piriform area,0.9937479941201232,0.006271631511106114
+SAL,Medial preoptic area,Parvicellular reticular nucleus,0.9992392471345312,0.0007610423847744052
+SAL,Medial preoptic area,Abducens nucleus,0.9950430605667974,0.004969265808409391
+SAL,Medial preoptic area,Posterior limiting nucleus of the thalamus,0.9930576245021253,0.006966585903536058
+SAL,Medial pretectal area,Ventral premammillary nucleus,0.9973065809106022,0.002697052868920742
+SAL,Medial pretectal area,Secondary motor area,0.9969415262143205,0.003063160475145798
+SAL,Medial pretectal area,Prelimbic area,0.9961392503219735,0.0038682216097702016
+SAL,Medial pretectal area,Nucleus of the trapezoid body,0.9960734318389999,0.003934297369237965
+SAL,Medial pretectal area,Parasubiculum,0.9941951197342135,0.005821794070070682
+SAL,posteromedial visual area,Ventrolateral preoptic nucleus,0.9979259628036891,0.002076190990004219
+SAL,posteromedial visual area,Ansiform lobule,0.9941798097604365,0.005837193553890527
+SAL,posteromedial visual area,Olivary pretectal nucleus,0.9937816431093233,0.006237771397955571
+SAL,Central amygdalar nucleus,Culmen,0.9973552027337894,0.002648300921502362
+SAL,Central amygdalar nucleus,Primary motor area,0.9967966463363733,0.0032084953844101014
+SAL,Central amygdalar nucleus,Dorsal premammillary nucleus,0.9960750039011257,0.0039327191112150115
+SAL,Central amygdalar nucleus,Perirhinal area,0.9948808375121114,0.005132310289861092
+SAL,Central amygdalar nucleus,fiber tracts,0.9944756591737202,0.005539656428845135
+SAL,Central amygdalar nucleus,Piriform-amygdalar area,0.9942534236665685,0.005763151433764834
+SAL,Central amygdalar nucleus,Pyramus (VIII),0.9939175403957264,0.0061010331150778965
+SAL,Central amygdalar nucleus,Uvula (IX),0.9930893904096114,0.006934598435085517
+SAL,Medial septal nucleus,Nucleus of the solitary tract,0.999901007466021,0.00010000500033334732
+SAL,Medial septal nucleus,Postpiriform transition area,0.9990935368383596,0.0009068742478139092
+SAL,Medial septal nucleus,Flocculus,0.9982413769124991,0.0017601712804743313
+SAL,Medial septal nucleus,Parafascicular nucleus,0.9974493321906485,0.002553926304560278
+SAL,Medial septal nucleus,Uvula (IX),0.9960421117611905,0.003965741406620806
+SAL,Medial septal nucleus,Parabrachial nucleus,0.9951163939359986,0.004895569834884752
+SAL,Postpiriform transition area,Nucleus of the solitary tract,0.9988120444688243,0.0011886617096755403
+SAL,Postpiriform transition area,Uvula (IX),0.996073851463874,0.003933876090271708
+SAL,Postpiriform transition area,Flocculus,0.995873715864121,0.004134820737318676
+SAL,Postpiriform transition area,Parafascicular nucleus,0.9950901690592996,0.004921923759334744
+SAL,Postpiriform transition area,Pontine gray,0.9933937733891407,0.006628144308054945
+SAL,Tegmental reticular nucleus,Tuberal nucleus,0.9975520249729005,0.0024509762168583187
+SAL,Central lateral nucleus of the thalamus,Nodulus (X),0.9948851440594952,0.0051279815924929525
+SAL,Central lateral nucleus of the thalamus,Nucleus of the lateral lemniscus,0.9939880907476933,0.006030053536478943
+SAL,Accessory facial motor nucleus,Dorsal auditory area,0.9988540160183565,0.0011466411233837883
+SAL,Accessory facial motor nucleus,Retrosplenial area dorsal part,0.9985311485631015,0.0014699312566964003
+SAL,Taenia tecta,Copula pyramidis,0.9992171807962483,0.0007831257667039055
+SAL,Taenia tecta,Parasolitary nucleus,0.9937607438916748,0.006258801608718299
+SAL,Central medial nucleus of the thalamus,Orbital area ventrolateral part,0.99857843413935,0.0014225772440104303
+SAL,Nucleus of the lateral lemniscus,Tuberomammillary nucleus dorsal part,-0.9954072020035483,0.004603377297994564
+SAL,Nucleus of the lateral lemniscus,Nodulus (X),0.9936779609488297,0.006342107768240495
+SAL,Motor nucleus of trigeminal,Orbital area medial part,0.9999871634871907,0.00010000500033334732
+SAL,Cortical amygdalar area anterior part,Periaqueductal gray,0.9997242088406774,0.00027582919669815815
+SAL,Cortical amygdalar area anterior part,Posterior auditory area,0.9995577725680389,0.00044232524334953375
+SAL,Cortical amygdalar area anterior part,Dentate gyrus,0.9983157378719804,0.0016856820920960437
+SAL,Cortical amygdalar area anterior part,Paramedian lobule,0.9967663611091573,0.003238878399248623
+SAL,Cortical amygdalar area anterior part,Declive (VI),0.995729984270085,0.004279158282258838
+SAL,Cortical amygdalar area anterior part,Dorsal premammillary nucleus,0.9954332309241051,0.0045772286221611985
+SAL,Cortical amygdalar area anterior part,Paragigantocellular reticular nucleus dorsal part,0.9948796492852691,0.005133504631441646
+SAL,Cortical amygdalar area anterior part,Paragigantocellular reticular nucleus lateral part,0.9945792748679914,0.005435470573953356
+SAL,Nucleus of the trapezoid body,Prelimbic area,0.9999168314358815,0.00010000500033334732
+SAL,Nucleus of the trapezoid body,Ventral premammillary nucleus,0.9991362946888196,0.0008640785195228471
+SAL,Nucleus of the trapezoid body,Secondary motor area,0.9974235421471567,0.002579782632374439
+SAL,Nucleus of the trapezoid body,Simple lobule,0.9969293771002404,0.003075346935222074
+SAL,Nucleus of the trapezoid body,Posterior limiting nucleus of the thalamus,0.9955953578380884,0.004414371177263889
+SAL,Nucleus of the trapezoid body,Parasubiculum,0.9941862039429902,0.0058307619587922264
+SAL,Nucleus of the solitary tract,Flocculus,0.9989372643941729,0.0010633007097172547
+SAL,Nucleus of the solitary tract,Uvula (IX),0.9970035122925025,0.0030009861654182223
+SAL,Nucleus of the solitary tract,Parafascicular nucleus,0.9966574876722842,0.003348111001284416
+SAL,Nucleus of the solitary tract,Parabrachial nucleus,0.9957186010110122,0.00429059042181499
+SAL,Abducens nucleus,Parvicellular reticular nucleus,0.9973354275338079,0.0026681287581423988
+SAL,Abducens nucleus,Parasubiculum,0.9950638995414104,0.004948323240968038
+SAL,Facial motor nucleus,Parastrial nucleus,0.9978000742527681,0.0022023491387184973
+SAL,Facial motor nucleus,Dorsal peduncular area,0.9974054733903569,0.0025978982269036243
+SAL,Facial motor nucleus,Ventral tegmental nucleus,0.9938962501187144,0.006122453911245464
+SAL,Visceral area,Dorsomedial nucleus of the hypothalamus,0.9960489420785051,0.00395888397176461
+SAL,Ventral medial nucleus of the thalamus,Retrosplenial area lateral agranular part,0.9995309641810126,0.0004691458506943507
+SAL,Ventral medial nucleus of the thalamus,Nodulus (X),0.9976298135567429,0.002372999781448229
+SAL,Ventral medial nucleus of the thalamus,Lingula (I),0.9954944750677159,0.004515705400151819
+SAL,Olivary pretectal nucleus,Parabrachial nucleus,0.9966801682553016,0.00332535461282119
+SAL,Olivary pretectal nucleus,Piriform area,0.9952737161235256,0.004737488072862864
+SAL,Olivary pretectal nucleus,Ansiform lobule,0.9936410589342425,0.006379245252682809
+SAL,Cuneate nucleus,Nucleus x,0.9993678651735631,0.0006323347078953931
+SAL,Cuneate nucleus,Parapyramidal nucleus,0.9932541681283705,0.006768687841795833
+SAL,Ventral posterolateral nucleus of the thalamus,Lingula (I),0.9978253408781101,0.002177027126729817
+SAL,Dentate gyrus,Posterior auditory area,0.9994893713426307,0.0005107590725798654
+SAL,Dentate gyrus,Periaqueductal gray,0.9992113900409514,0.0007889210754594563
+SAL,Dentate gyrus,Dorsal motor nucleus of the vagus nerve,0.9966634959591646,0.0033420825824500076
+SAL,Dentate gyrus,Paramedian lobule,0.9965424118585344,0.0034635794135643447
+SAL,Dentate gyrus,Declive (VI),0.996399498460861,0.0036069989454417545
+SAL,Dentate gyrus,Paraflocculus,0.9944664248839974,0.005548942058423647
+SAL,Dentate gyrus,Paragigantocellular reticular nucleus lateral part,0.9935599215818861,0.0064609051886399555
+SAL,Ventral tegmental area,Gustatory areas,-0.9980877816629109,0.0019140489606469988
+SAL,Ventral tegmental nucleus,Median eminence,0.9992480415916708,0.0007522412708625921
+SAL,Ventral tegmental nucleus,Dorsal peduncular area,0.9991020141501122,0.000898389280715926
+SAL,Vascular organ of the lamina terminalis,Fastigial nucleus,0.9943767126843689,0.005639157518853605
+SAL,Posterior amygdalar nucleus,Interanteromedial nucleus of the thalamus,0.9961911039702575,0.0038161683464306467
+SAL,Piriform-amygdalar area,fiber tracts,0.9998872685821936,0.00011273777247029814
+SAL,Piriform-amygdalar area,Primary motor area,0.999364151464191,0.0006360507732220339
+SAL,Piriform-amygdalar area,Entorhinal area lateral part,0.9985610947290551,0.0014399414892669194
+SAL,Piriform-amygdalar area,Culmen,0.9983880174429648,0.0016132831988464984
+SAL,Piriform-amygdalar area,Uvula (IX),0.9974119694450602,0.002591385295380373
+SAL,Piriform-amygdalar area,Dorsal premammillary nucleus,0.9948833088682166,0.005129826220470554
+SAL,Piriform-amygdalar area,Piriform area,0.9942701589559203,0.005746319559606139
+SAL,Piriform-amygdalar area,Flocculus,0.9941931129199792,0.00582381260367622
+SAL,Periaqueductal gray,Posterior auditory area,0.9997185844292904,0.0002814551755017611
+SAL,Periaqueductal gray,Paramedian lobule,0.9979140532117416,0.002088125405440312
+SAL,Periaqueductal gray,Declive (VI),0.9972679077253608,0.0027358312504418216
+SAL,Periaqueductal gray,Paragigantocellular reticular nucleus lateral part,0.9957739576966638,0.004234997258361971
+SAL,Periaqueductal gray,Paragigantocellular reticular nucleus dorsal part,0.995191849989098,0.004819746350390927
+SAL,Periaqueductal gray,Dorsal motor nucleus of the vagus nerve,0.9938882454061796,0.006130507815029179
+SAL,Dorsal peduncular area,Median eminence,0.9971359563299118,0.002868152891027895
+SAL,Dorsal peduncular area,Parastrial nucleus,0.9932506305509035,0.0067722494515834635
+SAL,Dorsal motor nucleus of the vagus nerve,Simple lobule,0.9977310645748044,0.0022715133593597184
+SAL,Dorsal motor nucleus of the vagus nerve,Declive (VI),0.9957458023928534,0.004263272452388673
+SAL,Dorsal motor nucleus of the vagus nerve,Paramedian lobule,0.9945452542830523,0.005469677165289196
+SAL,Dorsal motor nucleus of the vagus nerve,Posterior limiting nucleus of the thalamus,0.9942885908809921,0.005727781585735544
+SAL,Dorsal motor nucleus of the vagus nerve,Parapyramidal nucleus,0.9942513334537363,0.005765253729798855
+SAL,Dorsal motor nucleus of the vagus nerve,Posterior auditory area,0.9936407703261987,0.006379535707755207
+SAL,Dorsal motor nucleus of the vagus nerve,Medullary reticular nucleus dorsal part,0.9935046625863008,0.006516523909883197
+SAL,Parabrachial nucleus,Flocculus,0.997713362016268,0.002289256332605131
+SAL,Parabrachial nucleus,Parafascicular nucleus,0.9945273248101792,0.005487705137784503
+SAL,Retrosplenial area dorsal part,Dorsal auditory area,0.9949317629272952,0.0050811241478257215
+SAL,Retrosplenial area lateral agranular part,Lingula (I),0.9973773560556323,0.0026260890999264307
+SAL,Retrosplenial area lateral agranular part,Nodulus (X),0.996767166778358,0.0032380701166795896
+SAL,Entorhinal area lateral part,Piriform area,0.9982187446724479,0.0017828436492409875
+SAL,Entorhinal area lateral part,fiber tracts,0.9978848363121496,0.0021174038059319244
+SAL,Entorhinal area lateral part,Primary motor area,0.997152459783389,0.0028516021721407174
+SAL,Entorhinal area lateral part,Culmen,0.9959951411899789,0.004012899732752239
+SAL,Entorhinal area lateral part,Uvula (IX),0.9933484023896684,0.006673818074921478
+SAL,Central lobule,Medullary reticular nucleus dorsal part,0.9987370232302331,0.0012637749970932602
+SAL,Central lobule,Paraflocculus,0.9953055332856791,0.004705520330643452
+SAL,Central lobule,Edinger-Westphal nucleus,0.993909457631937,0.006109165375880722
+SAL,Culmen,Primary motor area,0.9997673682707023,0.00023265879225561548
+SAL,Culmen,Dorsal premammillary nucleus,0.998907698907005,0.0010928980886060755
+SAL,Culmen,fiber tracts,0.9978851904234927,0.0021170489440607847
+SAL,Culmen,Uvula (IX),0.993843803783777,0.006175223723723307
+SAL,Parafascicular nucleus,Pontine gray,0.9952682115999241,0.004743018751242289
+SAL,Parafascicular nucleus,Flocculus,0.9938428582031064,0.006176175162085033
+SAL,Declive (VI),Paramedian lobule,0.9998592942358492,0.00014071566413551706
+SAL,Declive (VI),Paragigantocellular reticular nucleus lateral part,0.9993668730128508,0.0006333274966766254
+SAL,Declive (VI),Paragigantocellular reticular nucleus dorsal part,0.9975189936538855,0.002484089142372872
+SAL,Declive (VI),Posterior auditory area,0.9955485734285217,0.004461363671217437
+SAL,Declive (VI),Secondary motor area,0.9939296365309285,0.006088863029426862
+SAL,Declive (VI),Simple lobule,0.9936683783784057,0.006351751351982679
+SAL,Uvula (IX),fiber tracts,0.9983787339854596,0.0016225816885159575
+SAL,Uvula (IX),Flocculus,0.9976963895334502,0.0023062678589896974
+SAL,Uvula (IX),Primary motor area,0.9957697660729286,0.004239206680113745
+SAL,Piriform area,fiber tracts,0.9934997360466808,0.006521482670541523
+SAL,Paragigantocellular reticular nucleus dorsal part,Paragigantocellular reticular nucleus lateral part,0.9991834943390545,0.0008168391832535927
+SAL,Paragigantocellular reticular nucleus dorsal part,Paramedian lobule,0.9983459139396463,0.0016554555711019688
+SAL,Prelimbic area,Ventral premammillary nucleus,0.9995298244041355,0.00047028616306865156
+SAL,Prelimbic area,Secondary motor area,0.9981773489130407,0.0018243141365317035
+SAL,Prelimbic area,Simple lobule,0.9973658360322605,0.002637639482369257
+SAL,Prelimbic area,Posterior limiting nucleus of the thalamus,0.9953269294395946,0.00468402349050147
+SAL,Edinger-Westphal nucleus,Paraflocculus,0.9958841245061164,0.004124369022974146
+SAL,Edinger-Westphal nucleus,Median eminence,0.9936630818251643,0.006357081668890066
+SAL,Paragigantocellular reticular nucleus lateral part,Paramedian lobule,0.9995376011978879,0.0004625057414051759
+SAL,Paragigantocellular reticular nucleus lateral part,Secondary motor area,0.9941528335363158,0.005864328072064167
+SAL,Paragigantocellular reticular nucleus lateral part,Posterior auditory area,0.9933739765558163,0.006648072992044937
+SAL,Dorsal premammillary nucleus,Primary motor area,0.9977029377276833,0.002299704566977285
+SAL,Dorsal premammillary nucleus,fiber tracts,0.9938310950247049,0.006188011286800048
+SAL,Dorsal premammillary nucleus,Posterior auditory area,0.9929500033181462,0.007074965330258174
+SAL,Fasciola cinerea,Fundus of striatum,0.9976725236682826,0.0023301891148645357
+SAL,Fasciola cinerea,Medullary reticular nucleus ventral part,0.9950350921812239,0.004977273921620951
+SAL,Primary motor area,fiber tracts,0.9990535549572391,0.000946893204666408
+SAL,Secondary motor area,Ventral premammillary nucleus,0.999541259077545,0.00045884617626269845
+SAL,Secondary motor area,Simple lobule,0.9949181992046915,0.0050947570577054456
+SAL,Fundus of striatum,Medullary reticular nucleus ventral part,0.9967601373544436,0.0032451223641204465
+SAL,Primary auditory area,Postsubiculum,0.9971679063268802,0.002836111638368836
+SAL,Ventral premammillary nucleus,Simple lobule,0.9962808530815623,0.0037260801411257353
+SAL,Simple lobule,Posterior limiting nucleus of the thalamus,0.9981802578547189,0.0018213998874329008
+SAL,Simple lobule,Parapyramidal nucleus,0.9950389751496487,0.004973371586036017
+SAL,fiber tracts,Flocculus,0.9953241704631549,0.004686795424206759
+SAL,Ansiform lobule,Medullary reticular nucleus ventral part,0.9947151830306523,0.005298831010782826
+SAL,Paramedian lobule,Posterior auditory area,0.9962259592332745,0.0037811804278223148
+SAL,Posterior auditory area,Paraflocculus,0.9945515342102633,0.005463362814728301
+SAL,Posterior limiting nucleus of the thalamus,Parapyramidal nucleus,0.998062960369605,0.0019389181178549853
+SAL,Paraflocculus,Medullary reticular nucleus dorsal part,0.9940145785033322,0.006003405930768841
+SAL,Medullary reticular nucleus ventral part,Parastrial nucleus,0.9947775650996169,0.005236119478867312
